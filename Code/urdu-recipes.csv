@@ -1,0 +1,1369 @@
+Id,recipe_name,additional_phrase,ing_name,Ing_quantity,Ing_unit,source,audio
+1,بلوچی گوشت,بلوچی گوشت بنانے کے اجزاء,,,,kfoods,dataset\Balochi Gosht - kfoods.wav
+1,بلوچی گوشت,,بون لیس مٹن,½,کلو,kfoods,dataset\Balochi Gosht - kfoods.wav
+1,بلوچی گوشت,,ادرک لہسن کا پیسٹ,1, کھانے کا چمچہ,kfoods,dataset\Balochi Gosht - kfoods.wav
+1,بلوچی گوشت,,ثابت لال مرچ ,6,عدد,kfoods,dataset\Balochi Gosht - kfoods.wav
+1,بلوچی گوشت,,ہری مرچ,3,عدد,kfoods,dataset\Balochi Gosht - kfoods.wav
+1,بلوچی گوشت,,پسا ہوا زیرہ,1,چائے کا چمچہ,kfoods,dataset\Balochi Gosht - kfoods.wav
+1,بلوچی گوشت,,ہر ا دھنیا,1/4, گٹھی,kfoods,dataset\Balochi Gosht - kfoods.wav
+1,بلوچی گوشت,,دہی,1,پاﺅ,kfoods,dataset\Balochi Gosht - kfoods.wav
+1,بلوچی گوشت,,نمک,,حسب ذائقہ,kfoods,dataset\Balochi Gosht - kfoods.wav
+1,بلوچی گوشت,,پساگرم مصالحہ,1,چائے کا چمچہ,kfoods,dataset\Balochi Gosht - kfoods.wav
+1,بلوچی گوشت,,پسا کھوپرا ,2, کھانے کا چمچہ,kfoods,dataset\Balochi Gosht - kfoods.wav
+1,بلوچی گوشت,,تیل,3, کھانے کا چمچہ,kfoods,dataset\Balochi Gosht - kfoods.wav
+1,بلوچی گوشت,,پیاز ,1,عدد,kfoods,dataset\Balochi Gosht - kfoods.wav
+1,بلوچی گوشت,,جائفل جاوتری پاﺅڈر ,½,چائے کا چمچہ,kfoods,dataset\Balochi Gosht - kfoods.wav
+1,بلوچی گوشت,,شملہ مرچ ,1,عدد,kfoods,dataset\Balochi Gosht - kfoods.wav
+1,بلوچی گوشت,,کڑی پتے,,چند عدد,kfoods,dataset\Balochi Gosht - kfoods.wav
+1,بلوچی گوشت,,پودین,1/4, گٹھی,kfoods,dataset\Balochi Gosht - kfoods.wav
+1,بلوچی گوشت,,پسی لال مرچ,1,چائے کا چمچہ,kfoods,dataset\Balochi Gosht - kfoods.wav
+1,بلوچی گوشت,,ہلدی,1,چائے کا چمچہ,kfoods,dataset\Balochi Gosht - kfoods.wav
+1,بلوچی گوشت,,اُبلے کٹے ٹماٹر ,2,عدد,kfoods,dataset\Balochi Gosht - kfoods.wav
+2,دال پلاﺅ, دال پلاﺅ بنانے کے اجزاء,,,,kfoods,dataset\Daal pilao - kfoods.wav
+2,دال پلاﺅ,,چاول,300,گرام,kfoods,dataset\Daal pilao - kfoods.wav
+2,دال پلاﺅ,,اُبلی مونگ کی دال,50,گرام,kfoods,dataset\Daal pilao - kfoods.wav
+2,دال پلاﺅ,,ابلی چنے کی دال,50,گرام,kfoods,dataset\Daal pilao - kfoods.wav
+2,دال پلاﺅ,,اُبلی ملکہ مسور,50,گرام,kfoods,dataset\Daal pilao - kfoods.wav
+2,دال پلاﺅ,,اُبلے مٹر,1,پیالی,kfoods,dataset\Daal pilao - kfoods.wav
+2,دال پلاﺅ,,پیاز,2,عدد,kfoods,dataset\Daal pilao - kfoods.wav
+2,دال پلاﺅ,,ادرک لہسن کا پیسٹ,1, کھانے کا چمچہ,kfoods,dataset\Daal pilao - kfoods.wav
+2,دال پلاﺅ,,کھڑا گرم مصالحہ,,حسب ضرورت,kfoods,dataset\Daal pilao - kfoods.wav
+2,دال پلاﺅ,,ہری مرچ,5,عدد,kfoods,dataset\Daal pilao - kfoods.wav
+2,دال پلاﺅ,,کڑی پتے,,چند عدد,kfoods,dataset\Daal pilao - kfoods.wav
+2,دال پلاﺅ,,اُبلے چھوٹے کٹے ٹماٹر,3,عدد,kfoods,dataset\Daal pilao - kfoods.wav
+2,دال پلاﺅ,,نمک,,حسب ذائقہ,kfoods,dataset\Daal pilao - kfoods.wav
+2,دال پلاﺅ,,گھی,1/4,کپ,kfoods,dataset\Daal pilao - kfoods.wav
+3,گوبھی آلوکا سالن,گوبھی آلوکا سالن بنانے کے اجزاء,,,,kfoods,dataset\Gobhi Aloo ka Saalan - kfoods.wav
+3,گوبھی آلوکا سالن,,پھول گوبھی,½,,kfoods,dataset\Gobhi Aloo ka Saalan - kfoods.wav
+3,گوبھی آلوکا سالن,,دہی ,1,پاﺅ,kfoods,dataset\Gobhi Aloo ka Saalan - kfoods.wav
+3,گوبھی آلوکا سالن,,پیاز ,1,عدد,kfoods,dataset\Gobhi Aloo ka Saalan - kfoods.wav
+3,گوبھی آلوکا سالن,,آلو,2,عدد,kfoods,dataset\Gobhi Aloo ka Saalan - kfoods.wav
+3,گوبھی آلوکا سالن,,ہری مرچ,4,عدد,kfoods,dataset\Gobhi Aloo ka Saalan - kfoods.wav
+3,گوبھی آلوکا سالن,,ہرا دھنیا,,تھوڑا سا,kfoods,dataset\Gobhi Aloo ka Saalan - kfoods.wav
+3,گوبھی آلوکا سالن,,پانی,1,کپ,kfoods,dataset\Gobhi Aloo ka Saalan - kfoods.wav
+3,گوبھی آلوکا سالن,,تیل,1/4,کپ,kfoods,dataset\Gobhi Aloo ka Saalan - kfoods.wav
+3,گوبھی آلوکا سالن,,پسازیرہ,1,چائے کا چمچہ,kfoods,dataset\Gobhi Aloo ka Saalan - kfoods.wav
+3,گوبھی آلوکا سالن,,پسا دھنیا ,1,چائے کا چمچہ,kfoods,dataset\Gobhi Aloo ka Saalan - kfoods.wav
+3,گوبھی آلوکا سالن,,ہلدی,1, کھانے کا چمچہ,kfoods,dataset\Gobhi Aloo ka Saalan - kfoods.wav
+3,گوبھی آلوکا سالن,,پسی لال مرچ ,2, کھانے کا چمچہ,kfoods,dataset\Gobhi Aloo ka Saalan - kfoods.wav
+3,گوبھی آلوکا سالن,,نمک ,,حسب ذائقہ,kfoods,dataset\Gobhi Aloo ka Saalan - kfoods.wav
+4,فِش موز,فِش موز بنانے کے اجزاء,,,,kfoods,dataset\Fish Mousse - kfoods.wav
+4,فِش موز,,فِش فلے,200,گرام,kfoods,dataset\Fish Mousse - kfoods.wav
+4,فِش موز,,بریڈ سلائس,4,عدد,kfoods,dataset\Fish Mousse - kfoods.wav
+4,فِش موز,,لہسن کاپیسٹ,1, کھانے کا چمچہ,kfoods,dataset\Fish Mousse - kfoods.wav
+4,فِش موز,,پانی,1,کپ,kfoods,dataset\Fish Mousse - kfoods.wav
+4,فِش موز,,کالی مرچ,½,چائے کا چمچہ,kfoods,dataset\Fish Mousse - kfoods.wav
+4,فِش موز,,کریم چیز ,3, کھانے کا چمچہ,kfoods,dataset\Fish Mousse - kfoods.wav
+4,فِش موز,,مسٹرڈ پیسٹ,3, کھانے کا چمچہ,kfoods,dataset\Fish Mousse - kfoods.wav
+4,فِش موز,,مایونیز,4, کھانے کا چمچہ,kfoods,dataset\Fish Mousse - kfoods.wav
+4,فِش موز,,سلاد پتے,,گارنش کے لئے,kfoods,dataset\Fish Mousse - kfoods.wav
+4,فِش موز,,ہرادھنیا,,حسب ضرورت,kfoods,dataset\Fish Mousse - kfoods.wav
+4,فِش موز,,پودینہ,,حسب ضرورت,kfoods,dataset\Fish Mousse - kfoods.wav
+4,فِش موز,,نمک,,حسب ذائقہ,kfoods,dataset\Fish Mousse - kfoods.wav
+5,دہلی پھلکی تڑکے والی,دہلی پھلکی تڑکے والی بنانے کے اجزاء,,,,kfoods,dataset\Dehli  Phalki Tarkay Wali - kfoods.wav
+5,دہلی پھلکی تڑکے والی,,مونگ کی دال کا آٹا ,½,پاﺅ,kfoods,dataset\Dehli  Phalki Tarkay Wali - kfoods.wav
+5,دہلی پھلکی تڑکے والی,,دہی,1,پاﺅ,kfoods,dataset\Dehli  Phalki Tarkay Wali - kfoods.wav
+5,دہلی پھلکی تڑکے والی,,کھانے کا سوڈا ,,تھو ڑا سا,kfoods,dataset\Dehli  Phalki Tarkay Wali - kfoods.wav
+5,دہلی پھلکی تڑکے والی,,کٹی لال مرچ,1,چائے کا چمچہ,kfoods,dataset\Dehli  Phalki Tarkay Wali - kfoods.wav
+5,دہلی پھلکی تڑکے والی,,ثابت زیرہ,½,چائے کا چمچہ,kfoods,dataset\Dehli  Phalki Tarkay Wali - kfoods.wav
+5,دہلی پھلکی تڑکے والی,,پسی لال مرچ ,½,چائے کا چمچہ,kfoods,dataset\Dehli  Phalki Tarkay Wali - kfoods.wav
+5,دہلی پھلکی تڑکے والی,,تیل,2, کھانے کا چمچہ,kfoods,dataset\Dehli  Phalki Tarkay Wali - kfoods.wav
+5,دہلی پھلکی تڑکے والی,,نمک,,حسب ذائقہ,kfoods,dataset\Dehli  Phalki Tarkay Wali - kfoods.wav
+6,بنگالی فش,بنگالی فش بنانے کے اجزاء,,,,kfoods,dataset\Bangali Fish - kfoods.wav
+6,بنگالی فش,,فِش فلے,½,کلو,kfoods,dataset\Bangali Fish - kfoods.wav
+6,بنگالی فش,,کوکونٹ ملک,1,کپ,kfoods,dataset\Bangali Fish - kfoods.wav
+6,بنگالی فش,,درمیانی پیاز ,1,عدد,kfoods,dataset\Bangali Fish - kfoods.wav
+6,بنگالی فش,,ہر ی مرچ ( پیسٹ),5,عدد,kfoods,dataset\Bangali Fish - kfoods.wav
+6,بنگالی فش,,کڑی پتے,,چند عدد,kfoods,dataset\Bangali Fish - kfoods.wav
+6,بنگالی فش,,تیل,1/4,کپ,kfoods,dataset\Bangali Fish - kfoods.wav
+6,بنگالی فش,,اجوائن,½,چائے کا چمچہ,kfoods,dataset\Bangali Fish - kfoods.wav
+6,بنگالی فش,,ادرک لہسن کا پیسٹ,2, کھانے کا چمچہ,kfoods,dataset\Bangali Fish - kfoods.wav
+6,بنگالی فش,,کھڑا گرم مصالحہ,,حسب ضرورت,kfoods,dataset\Bangali Fish - kfoods.wav
+6,بنگالی فش,,نمک,,حسب ذائقہ,kfoods,dataset\Bangali Fish - kfoods.wav
+7,سری لنک اسٹائل فش,سری لنک اسٹائل فش بنانے کے اجزاء,,,,kfoods,dataset\Srilankan Style Fish - kfoods.wav
+7,سری لنک اسٹائل فش,,مونگ کی دال,50,گرام,kfoods,dataset\Srilankan Style Fish - kfoods.wav
+7,سری لنک اسٹائل فش,,مسو ر کی دال,50,گرام,kfoods,dataset\Srilankan Style Fish - kfoods.wav
+7,سری لنک اسٹائل فش,,کوکونٹ ملک,1,کپ,kfoods,dataset\Srilankan Style Fish - kfoods.wav
+7,سری لنک اسٹائل فش,,بون لیس فِش,300,گرام,kfoods,dataset\Srilankan Style Fish - kfoods.wav
+7,سری لنک اسٹائل فش,,نمک,,حسب ذائقہ,kfoods,dataset\Srilankan Style Fish - kfoods.wav
+7,سری لنک اسٹائل فش,,لہسن چوپڈ,4,جوئے,kfoods,dataset\Srilankan Style Fish - kfoods.wav
+7,سری لنک اسٹائل فش,,درمیانی پیاز,1,عدد,kfoods,dataset\Srilankan Style Fish - kfoods.wav
+7,سری لنک اسٹائل فش,,فریش لال مرچ ,1,عدد,kfoods,dataset\Srilankan Style Fish - kfoods.wav
+7,سری لنک اسٹائل فش,,سوکھی گول مرچ,5,عدد,kfoods,dataset\Srilankan Style Fish - kfoods.wav
+7,سری لنک اسٹائل فش,,ہلدی ,1,چائے کا چمچہ,kfoods,dataset\Srilankan Style Fish - kfoods.wav
+7,سری لنک اسٹائل فش,,دار چینی,2,انچ,kfoods,dataset\Srilankan Style Fish - kfoods.wav
+7,سری لنک اسٹائل فش,,لیمن اسکن,1,چائے کا چمچہ,kfoods,dataset\Srilankan Style Fish - kfoods.wav
+7,سری لنک اسٹائل فش,,کڑی پتے,,چند عدد,kfoods,dataset\Srilankan Style Fish - kfoods.wav
+7,سری لنک اسٹائل فش,,میدہ ,4, کھانے کا چمچہ,kfoods,dataset\Srilankan Style Fish - kfoods.wav
+7,سری لنک اسٹائل فش,,لیموں کا رس,1 -1 ½,,kfoods,dataset\Srilankan Style Fish - kfoods.wav
+8,سکندری پلاﺅ, سکندری پلاﺅ بنانے کے اجزاء,,,,kfoods,dataset\Sikandari Pulao - kfoods.wav
+8,سکندری پلاﺅ,,بکرے کا گوشت,½,کلو,kfoods,dataset\Sikandari Pulao - kfoods.wav
+8,سکندری پلاﺅ,,اُبلے کالے چنے,½,پاﺅ,kfoods,dataset\Sikandari Pulao - kfoods.wav
+8,سکندری پلاﺅ,,چاول,300,گرام,kfoods,dataset\Sikandari Pulao - kfoods.wav
+8,سکندری پلاﺅ,,پیاز,2,عدد,kfoods,dataset\Sikandari Pulao - kfoods.wav
+8,سکندری پلاﺅ,,ادرک لہسن کا پیسٹ,2, کھانے کا چمچہ,kfoods,dataset\Sikandari Pulao - kfoods.wav
+8,سکندری پلاﺅ,,گاجر,1,عدد,kfoods,dataset\Sikandari Pulao - kfoods.wav
+8,سکندری پلاﺅ,,دودھ,1,کپ,kfoods,dataset\Sikandari Pulao - kfoods.wav
+8,سکندری پلاﺅ,,بادام,50,گرام,kfoods,dataset\Sikandari Pulao - kfoods.wav
+8,سکندری پلاﺅ,,پستے ,50,گرام,kfoods,dataset\Sikandari Pulao - kfoods.wav
+8,سکندری پلاﺅ,,کاجو,50,گرام,kfoods,dataset\Sikandari Pulao - kfoods.wav
+8,سکندری پلاﺅ,,تیز پتے,2,عدد,kfoods,dataset\Sikandari Pulao - kfoods.wav
+8,سکندری پلاﺅ,,دار چینی,1,ٹکڑا,kfoods,dataset\Sikandari Pulao - kfoods.wav
+8,سکندری پلاﺅ,,چھوٹی الائچی,4,عدد,kfoods,dataset\Sikandari Pulao - kfoods.wav
+8,سکندری پلاﺅ,,ثابت زیرہ,1,چائے کا چمچہ,kfoods,dataset\Sikandari Pulao - kfoods.wav
+8,سکندری پلاﺅ,,ثابت لال مرچ ,5,عدد,kfoods,dataset\Sikandari Pulao - kfoods.wav
+8,سکندری پلاﺅ,,نمک,,حسب ذائقہ,kfoods,dataset\Sikandari Pulao - kfoods.wav
+8,سکندری پلاﺅ,,گھی,½,پاﺅ,kfoods,dataset\Sikandari Pulao - kfoods.wav
+8,سکندری پلاﺅ,,پانی,1 ½,گلاس,kfoods,dataset\Sikandari Pulao - kfoods.wav
+9,پارٹی پران, پارٹی پران بنانے کے اجزاء,,,,kfoods,dataset\Party prawn - kfoods.wav
+9,پارٹی پران,,بڑے جھینگے,300,گرام,kfoods,dataset\Party prawn - kfoods.wav
+9,پارٹی پران,,میدہ ,150,گرام,kfoods,dataset\Party prawn - kfoods.wav
+9,پارٹی پران,,پیاز,1,عدد,kfoods,dataset\Party prawn - kfoods.wav
+9,پارٹی پران,,شملہ مرچ,1,عدد,kfoods,dataset\Party prawn - kfoods.wav
+9,پارٹی پران,,انڈے,2,عدد,kfoods,dataset\Party prawn - kfoods.wav
+9,پارٹی پران,,لہسن کا پیسٹ,1, کھانے کا چمچہ,kfoods,dataset\Party prawn - kfoods.wav
+9,پارٹی پران,,بیکنگ پاﺅڈر,½,چائے کا چمچہ,kfoods,dataset\Party prawn - kfoods.wav
+9,پارٹی پران,,پسی کا لی مرچ ,1/4,چائے کا چمچہ,kfoods,dataset\Party prawn - kfoods.wav
+9,پارٹی پران,,پسی سفید مرچ ,1/4,چائے کا چمچہ,kfoods,dataset\Party prawn - kfoods.wav
+9,پارٹی پران,,کارن فلور,2, کھانے کا چمچہ,kfoods,dataset\Party prawn - kfoods.wav
+9,پارٹی پران,,تیل ,,فرائی کے لئے,kfoods,dataset\Party prawn - kfoods.wav
+9,پارٹی پران,,نمک,,حسب ذائقہ,kfoods,dataset\Party prawn - kfoods.wav
+10,فروٹی اسموتھی, فروٹی اسموتھی بنانے کے اجزاء,,,,kfoods,dataset\Fruity Smoothie - kfoods.wav
+10,فروٹی اسموتھی,,آڑو,1,کپ,kfoods,dataset\Fruity Smoothie - kfoods.wav
+10,فروٹی اسموتھی,,درمیانی کیلے,2,عدد,kfoods,dataset\Fruity Smoothie - kfoods.wav
+10,فروٹی اسموتھی,,دہی,1,کپ,kfoods,dataset\Fruity Smoothie - kfoods.wav
+10,فروٹی اسموتھی,,برف,1,کپ,kfoods,dataset\Fruity Smoothie - kfoods.wav
+10,فروٹی اسموتھی,,چینی,1, کھانے کا چمچہ,kfoods,dataset\Fruity Smoothie - kfoods.wav
+11,کرسپ اسپنچ وِد سیلیڈ,کرسپ اسپنچ وِد سیلیڈ بنانے کے اجزاء,,,,kfoods,dataset\Crisp Chicken with Salad - kfoods.wav
+11,کرسپ اسپنچ وِد سیلیڈ,,چکن بریسٹ,2,عدد,kfoods,dataset\Crisp Chicken with Salad - kfoods.wav
+11,کرسپ اسپنچ وِد سیلیڈ,,کھیر ا (باریک سلائس ) ,1,عدد,kfoods,dataset\Crisp Chicken with Salad - kfoods.wav
+11,کرسپ اسپنچ وِد سیلیڈ,,ٹماٹر,2,عدد,kfoods,dataset\Crisp Chicken with Salad - kfoods.wav
+11,کرسپ اسپنچ وِد سیلیڈ,,باریک کٹی پالک,1, گٹھی,kfoods,dataset\Crisp Chicken with Salad - kfoods.wav
+11,کرسپ اسپنچ وِد سیلیڈ,,مایونیز,½,کپ,kfoods,dataset\Crisp Chicken with Salad - kfoods.wav
+11,کرسپ اسپنچ وِد سیلیڈ,,آئس برگ,½,پھول,kfoods,dataset\Crisp Chicken with Salad - kfoods.wav
+11,کرسپ اسپنچ وِد سیلیڈ,,باریک چینی,1, کھانے کا چمچہ,kfoods,dataset\Crisp Chicken with Salad - kfoods.wav
+11,کرسپ اسپنچ وِد سیلیڈ,,پسی کالی مرچ,½,چائے کا چمچہ,kfoods,dataset\Crisp Chicken with Salad - kfoods.wav
+11,کرسپ اسپنچ وِد سیلیڈ,,تیل ,,فرائی کے لئے,kfoods,dataset\Crisp Chicken with Salad - kfoods.wav
+11,کرسپ اسپنچ وِد سیلیڈ,,نمک,,حسب ذائقہ,kfoods,dataset\Crisp Chicken with Salad - kfoods.wav
+12,کریم آلو,کریم آلو بنانے کے اجزاء,,,,kfoods,dataset\Cream Aloo - kfoods.wav
+12,کریم آلو,,آلو,1,کلو,kfoods,dataset\Cream Aloo - kfoods.wav
+12,کریم آلو,,ہری پیاز,2,عدد,kfoods,dataset\Cream Aloo - kfoods.wav
+12,کریم آلو,,میدہ ,4, کھانے کا چمچہ,kfoods,dataset\Cream Aloo - kfoods.wav
+12,کریم آلو,,وویسٹر سوس,2, کھانے کا چمچہ,kfoods,dataset\Cream Aloo - kfoods.wav
+12,کریم آلو,,فریش کریم,4, کھانے کا چمچہ,kfoods,dataset\Cream Aloo - kfoods.wav
+12,کریم آلو,,نمک,,حسب ذائقہ,kfoods,dataset\Cream Aloo - kfoods.wav
+12,کریم آلو,,پسی کالی مرچ,1/4,چائے کا چمچہ,kfoods,dataset\Cream Aloo - kfoods.wav
+12,کریم آلو,,پسی سفید مرچ ,1/4,چائے کا چمچہ,kfoods,dataset\Cream Aloo - kfoods.wav
+12,کریم آلو,,دودھ,2,کپ,kfoods,dataset\Cream Aloo - kfoods.wav
+13,انڈے کی بریانی,انڈے کی بریانی بنانے کے اجزاء,,,,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,ابلے انڈے,8,عدد,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,چاول,2,پیالی,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,باریک کٹی پیاز,3,عدد,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,دہی,½,پیالی,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,نمک,,حسب ذائقہ,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,پسی لال مرچ,1, کھانے کا چمچہ,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,ادرک لہسن کا پیسٹ,1, کھانے کا چمچہ,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,پسا گرم مصالحہ,1,چائے کا چمچہ,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,پودینہ,½, گٹھی,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,کچلی ہری مرچ,6,عدد,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,لیموں,4,عدد,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,مکھن,1, کھانے کا چمچہ,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,چھوٹی الانچی,4,عدد,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,تیل,1,پیالی,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,چاول ابالنے کے لیے:,,,,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,پودینہ,½, گٹھی,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,ہری مرچ,3,عدد,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,ثابت گرم مصالحہ,,تھوڑا سا,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,کالا زیرہ,1,چائے کا چمچہ,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,سفید سرکہ,1, کھانے کا چمچہ,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,نمک,,حسب ذائقہ,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,تازہ دودھ,½,پیالی,hum masala,dataset\Anday ki biryani.wav
+13,انڈے کی بریانی,,زردے کا رنگ,1,چٹکی,hum masala,dataset\Anday ki biryani.wav
+14,انڈے کا حلوہ,انڈے کا حلوہ بنانے کے اجزاء,,,,hum masala,dataset\Anday Ka Halwa.wav
+14,انڈے کا حلوہ,,انڈے,12,عدد,hum masala,dataset\Anday Ka Halwa.wav
+14,انڈے کا حلوہ,,پھیکا کھویا,3,پاؤ,hum masala,dataset\Anday Ka Halwa.wav
+14,انڈے کا حلوہ,,چھوٹی الائچی,8,عدد,hum masala,dataset\Anday Ka Halwa.wav
+14,انڈے کا حلوہ,,چینی,2,پیالی,hum masala,dataset\Anday Ka Halwa.wav
+14,انڈے کا حلوہ,,تیل,2,پیالی,hum masala,dataset\Anday Ka Halwa.wav
+14,انڈے کا حلوہ,,چینی,1, چائے کا چمچہ,hum masala,dataset\Anday Ka Halwa.wav
+14,انڈے کا حلوہ,,ابلے بادام، پستے,,حسب ضرورت,hum masala,dataset\Anday Ka Halwa.wav
+15,مکئی کی روٹی,مکئی کی روٹی بنانے کے اجزاء,,,,hum masala,dataset\Makai ki Roti.wav
+15,مکئی کی روٹی,,مکئی کا آٹا,2,پیالی,hum masala,dataset\Makai ki Roti.wav
+15,مکئی کی روٹی,,سادہ آتا,1,پیالی,hum masala,dataset\Makai ki Roti.wav
+15,مکئی کی روٹی,,نمک,,حسب ذائقہ,hum masala,dataset\Makai ki Roti.wav
+15,مکئی کی روٹی,,مکھن یا گھی,,حسب ضرورت,hum masala,dataset\Makai ki Roti.wav
+16,بے بی کارن رائس,بے بی کارن رائس بنانے کے اجزاء,,,,hum masala,dataset\babycorn rice.wav
+16,بے بی کارن رائس,,ابلے چاول,2,کپ,hum masala,dataset\babycorn rice.wav
+16,بے بی کارن رائس,,مشروم,1,کپ,hum masala,dataset\babycorn rice.wav
+16,بے بی کارن رائس,,بند گوبهی,1,کپ,hum masala,dataset\babycorn rice.wav
+16,بے بی کارن رائس,,شملہ مرچ,1,کپ,hum masala,dataset\babycorn rice.wav
+16,بے بی کارن رائس,,ہری پیاز,1,کپ,hum masala,dataset\babycorn rice.wav
+16,بے بی کارن رائس,,ادرک لہسن,2, چائے کا چمچہ,hum masala,dataset\babycorn rice.wav
+16,بے بی کارن رائس,,ہری مرچ کا پیسٹ,2, چائے کا چمچہ,hum masala,dataset\babycorn rice.wav
+16,بے بی کارن رائس,,کٹی گاجر,2,عدد,hum masala,dataset\babycorn rice.wav
+16,بے بی کارن رائس,,سوسچز,4,عدد,hum masala,dataset\babycorn rice.wav
+16,بے بی کارن رائس,,ابلے نوڈلز,1,کپ,hum masala,dataset\babycorn rice.wav
+16,بے بی کارن رائس,,سویا سوس,4, کھانے کا چمچہ,hum masala,dataset\babycorn rice.wav
+16,بے بی کارن رائس,,کالی مرچ,1, چائے کا چمچہ,hum masala,dataset\babycorn rice.wav
+16,بے بی کارن رائس,,نمک,1, چائے کا چمچہ,hum masala,dataset\babycorn rice.wav
+16,بے بی کارن رائس,,تیل,3, کھانے کا چمچہ,hum masala,dataset\babycorn rice.wav
+17,چنا کشمش پلاؤ,چنا کشمش پلاؤ بنانے کے اجزاء,,,,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,کابلی چنے ,½,کلو,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,کشمش,1,پاؤ,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,ہری مرچ,4,عدد,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,باریک کٹی پیاز,4,عدد,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,چھوٹی الائچی,6,عدد,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,تیل,1,پیالی,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,دہی,½,پیالی,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,سیلا چاول,½-2,پیالی,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,کالا زیرہ,1,چائے کا چمچہ,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,ادرک لہسن کا پیسٹ,1, کھانے کا چمچہ,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,مکھن,2, کھانے کا چمچہ,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,پودینہ,,تھوڑا سا,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,نمک,,حسب ذائقہ,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,یخنی کے لیے:,,,,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,ثابت پیاز,1,عدد,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,ثابت لہسن,1,ڈلی,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,پانی,4,پیالی,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,ثابت گرم مصالحہ,,تھوڑا سا,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,سونف,1, کھانے کا چمچہ,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,ثابت دھنیا,2, کھانے کا چمچہ,hum masala,dataset\Chana Kishmish Pulao.wav
+17,چنا کشمش پلاؤ,,نمک,,حسب ذائقہ,hum masala,dataset\Chana Kishmish Pulao.wav
+18,کریمی فروٹ چاٹ,کریمی فروٹ چاٹ بنانے کے اجزاء,,,,hum masala,dataset\Creamy Fruit Chaat.wav
+18,کریمی فروٹ چاٹ,,فروٹ کوکٹیل,1,ٹن,hum masala,dataset\Creamy Fruit Chaat.wav
+18,کریمی فروٹ چاٹ,,لال جیلی,1,پیکٹ,hum masala,dataset\Creamy Fruit Chaat.wav
+18,کریمی فروٹ چاٹ,,ہری جیلی,1,پیکٹ,hum masala,dataset\Creamy Fruit Chaat.wav
+18,کریمی فروٹ چاٹ,,کریم,1,پیکٹ,hum masala,dataset\Creamy Fruit Chaat.wav
+18,کریمی فروٹ چاٹ,,چینی ,1,پیکٹ,hum masala,dataset\Creamy Fruit Chaat.wav
+18,کریمی فروٹ چاٹ,,ونیلا ایسنس,4, کھانے کا چمچہ,hum masala,dataset\Creamy Fruit Chaat.wav
+18,کریمی فروٹ چاٹ,,باریک کٹے بادام,½,چائے کا چمچہ,hum masala,dataset\Creamy Fruit Chaat.wav
+18,کریمی فروٹ چاٹ,,کشمش,100,گرام,hum masala,dataset\Creamy Fruit Chaat.wav
+19,سرسوں کا ساگ,سرسوں کا ساگ بنانے کے اجزاء,,,,hum masala,dataset\Sarson-Ka-Saag.wav
+19,سرسوں کا ساگ,,سرسوں کا ساگ,1,کلو,hum masala,dataset\Sarson-Ka-Saag.wav
+19,سرسوں کا ساگ,,مکئی کا آٹا,1,پیالی,hum masala,dataset\Sarson-Ka-Saag.wav
+19,سرسوں کا ساگ,,مکھن,1,پیکٹ,hum masala,dataset\Sarson-Ka-Saag.wav
+19,سرسوں کا ساگ,,ہری مرچ,4,عدد,hum masala,dataset\Sarson-Ka-Saag.wav
+19,سرسوں کا ساگ,,لہسن کے جوے,8,عدد,hum masala,dataset\Sarson-Ka-Saag.wav
+19,سرسوں کا ساگ,,ثابت لال مرچ,10,عدد,hum masala,dataset\Sarson-Ka-Saag.wav
+19,سرسوں کا ساگ,,ہلدی,1,چائے کا چمچہ,hum masala,dataset\Sarson-Ka-Saag.wav
+19,سرسوں کا ساگ,,نمک,,حسب ذائقہ,hum masala,dataset\Sarson-Ka-Saag.wav
+19,سرسوں کا ساگ,بگھار کے اجزاء:,,,,hum masala,dataset\Sarson-Ka-Saag.wav
+19,سرسوں کا ساگ,,باریک کئے لہسن کے جوے,4,عدد,hum masala,dataset\Sarson-Ka-Saag.wav
+19,سرسوں کا ساگ,,مکھن,½,پیکٹ,hum masala,dataset\Sarson-Ka-Saag.wav
+19,سرسوں کا ساگ,,تیل,3, کھانے کا چمچہ,hum masala,dataset\Sarson-Ka-Saag.wav
+20,مونگ دال پکوڑا, مونگ دال پکوڑا بنانے کے اجزاء,,,,hum masala,dataset\moong daal pakora.wav
+20,مونگ دال پکوڑا,,قیمہ (ہاتھ کا ‌ کٹا),½,کلو,hum masala,dataset\moong daal pakora.wav
+20,مونگ دال پکوڑا,,مونگ دال کا آٹا,1,کپ,hum masala,dataset\moong daal pakora.wav
+20,مونگ دال پکوڑا,,کٹی ہری مرچ,4,عدد,hum masala,dataset\moong daal pakora.wav
+20,مونگ دال پکوڑا,,ثابت دھنیا (کٹا ہوا),1, کھانے کا چمچہ,hum masala,dataset\moong daal pakora.wav
+20,مونگ دال پکوڑا,,کٹا زیرہ,1,چائے کا چمچہ,hum masala,dataset\moong daal pakora.wav
+20,مونگ دال پکوڑا,,نمک,½,چائے کا چمچہ,hum masala,dataset\moong daal pakora.wav
+20,مونگ دال پکوڑا,,کٹی کالی مرچ,2,چائے کا چمچہ,hum masala,dataset\moong daal pakora.wav
+20,مونگ دال پکوڑا,,باریک کٹی پیاز,2,عدد,hum masala,dataset\moong daal pakora.wav
+20,مونگ دال پکوڑا,,باریک کٹا لہسن,1, کھانے کا چمچہ,hum masala,dataset\moong daal pakora.wav
+20,مونگ دال پکوڑا,,تیل ( تلنے کے لیے),,حسب ضرورت,hum masala,dataset\moong daal pakora.wav
+21,کڑاہی چوپس, کڑاہی چوپس بنانے کے اجزاء,,,,hum masala,dataset\Karahi chops.wav
+21,کڑاہی چوپس,,ابلی چانپیں,1,کلو,hum masala,dataset\Karahi chops.wav
+21,کڑاہی چوپس,,مکھن,100,گرام,hum masala,dataset\Karahi chops.wav
+21,کڑاہی چوپس,,دہی,1,کپ,hum masala,dataset\Karahi chops.wav
+21,کڑاہی چوپس,,ٹماٹر,1,پاؤ,hum masala,dataset\Karahi chops.wav
+21,کڑاہی چوپس,,کریم,½,کپ,hum masala,dataset\Karahi chops.wav
+21,کڑاہی چوپس,,ادرک لہسن کا پیسٹ,1, کھانے کا چمچہ,hum masala,dataset\Karahi chops.wav
+21,کڑاہی چوپس,,نمک,1,چائے کا چمچہ,hum masala,dataset\Karahi chops.wav
+21,کڑاہی چوپس,,الائچی,4,عدد,hum masala,dataset\Karahi chops.wav
+21,کڑاہی چوپس,,ہلدی ,1,چائے کا چمچہ,hum masala,dataset\Karahi chops.wav
+21,کڑاہی چوپس,,کٹی لال مرچ,½-1,چائے کا چمچہ,hum masala,dataset\Karahi chops.wav
+21,کڑاہی چوپس,,پیاز,2,عدد,hum masala,dataset\Karahi chops.wav
+21,کڑاہی چوپس,,ہرا دھنیا,½,گٹھی,hum masala,dataset\Karahi chops.wav
+21,کڑاہی چوپس,,تیل,,حسب ضرورت,hum masala,dataset\Karahi chops.wav
+22,چنیوٹی پلاؤ,چنیوٹی پلاؤ بنانے کے اجزاء,,,,hum masala,dataset\Chunutey pulao.wav
+22,چنیوٹی پلاؤ,,چکن ,½,کلو,hum masala,dataset\Chunutey pulao.wav
+22,چنیوٹی پلاؤ,,چاول,½,کلو,hum masala,dataset\Chunutey pulao.wav
+22,چنیوٹی پلاؤ,,ٹماٹر ,2,عدد,hum masala,dataset\Chunutey pulao.wav
+22,چنیوٹی پلاؤ,,ادرک لہسن,1,چائے کا چمچہ,hum masala,dataset\Chunutey pulao.wav
+22,چنیوٹی پلاؤ,,چھوٹی ہری مرچیں,10,عدد,hum masala,dataset\Chunutey pulao.wav
+22,چنیوٹی پلاؤ,,دہی,1,کپ,hum masala,dataset\Chunutey pulao.wav
+22,چنیوٹی پلاؤ,,پودینہ,1,چائے کا چمچہ,hum masala,dataset\Chunutey pulao.wav
+22,چنیوٹی پلاؤ,,کالا زیرہ,1,چائے کا چمچہ,hum masala,dataset\Chunutey pulao.wav
+22,چنیوٹی پلاؤ,,کالی مرچ,1,چائے کا چمچہ,hum masala,dataset\Chunutey pulao.wav
+22,چنیوٹی پلاؤ,,تیز پتے,2,عدد,hum masala,dataset\Chunutey pulao.wav
+22,چنیوٹی پلاؤ,,پیاز,1,عدد,hum masala,dataset\Chunutey pulao.wav
+22,چنیوٹی پلاؤ,,نمک,1,چائے کا چمچہ,hum masala,dataset\Chunutey pulao.wav
+23,چوری,چوری بنانے کے اجزاء,,,,kfoods,dataset\Choori - kfoods.wav
+23,چوری,,باسی روٹی,1,عدد,kfoods,dataset\Choori - kfoods.wav
+23,چوری,,گھی,½,کپ,kfoods,dataset\Choori - kfoods.wav
+23,چوری,,پانی,3,گلاس,kfoods,dataset\Choori - kfoods.wav
+23,چوری,,مونگ ، مسور دال,100,گرام,kfoods,dataset\Choori - kfoods.wav
+23,چوری,,گرم مصالحہ,1,چائے کا چمچہ,kfoods,dataset\Choori - kfoods.wav
+23,چوری,,ہلدی,1, کھانے کا چمچہ,kfoods,dataset\Choori - kfoods.wav
+23,چوری,,زیرہ,1, کھانے کا چمچہ,kfoods,dataset\Choori - kfoods.wav
+23,چوری,,پسا دھنیا ,1, کھانے کا چمچہ,kfoods,dataset\Choori - kfoods.wav
+23,چوری,,پسی لال مرچ,1, کھانے کا چمچہ,kfoods,dataset\Choori - kfoods.wav
+23,چوری,,ادرک لہسن پیسٹ,2, کھانے کا چمچہ,kfoods,dataset\Choori - kfoods.wav
+23,چوری,,نمک,,حسب ذائقہ,kfoods,dataset\Choori - kfoods.wav
+24,چٹنی آلو,چٹنی آلو بنانے کے اجزاء,,,,kfoods,dataset\Chutney Aloo - kfoods.wav
+24,چٹنی آلو,,اُبلے ہوئے آلو,2,عدد,kfoods,dataset\Chutney Aloo - kfoods.wav
+24,چٹنی آلو,,آلو بخارے,200,گرام,kfoods,dataset\Chutney Aloo - kfoods.wav
+24,چٹنی آلو,,پسی لال مرچ ,½,چائے کا چمچہ,kfoods,dataset\Chutney Aloo - kfoods.wav
+24,چٹنی آلو,,چاٹ مصالحہ,½,چائے کا چمچہ,kfoods,dataset\Chutney Aloo - kfoods.wav
+24,چٹنی آلو,,ثابت زیرہ,½,چائے کا چمچہ,kfoods,dataset\Chutney Aloo - kfoods.wav
+24,چٹنی آلو,,پسی ہوئی کھٹائی,½,چائے کا چمچہ,kfoods,dataset\Chutney Aloo - kfoods.wav
+24,چٹنی آلو,,پسا دھنیا,½,چائے کا چمچہ,kfoods,dataset\Chutney Aloo - kfoods.wav
+24,چٹنی آلو,,چینی,3,چائے کا چمچہ,kfoods,dataset\Chutney Aloo - kfoods.wav
+24,چٹنی آلو,,ہر ا دھنیا,,حسب ضرورت,kfoods,dataset\Chutney Aloo - kfoods.wav
+24,چٹنی آلو,,پودینہ,,حسب ضرورت,kfoods,dataset\Chutney Aloo - kfoods.wav
+24,چٹنی آلو,,ہری مر چ ,3,عدد,kfoods,dataset\Chutney Aloo - kfoods.wav
+24,چٹنی آلو,,نمک,,حسب ذائقہ,kfoods,dataset\Chutney Aloo - kfoods.wav
+24,چٹنی آلو,,تیل,,فرائی کے لئے,kfoods,dataset\Chutney Aloo - kfoods.wav
+25,بکرے کی نہاری, بکرے کی نہاری بنانے کے اجزاء,,,,kfoods,dataset\Baray ki nihari - kfoods.wav
+25,بکرے کی نہاری,,بکرے کا گوشت,"1½
+",کلو,kfoods,dataset\Baray ki nihari - kfoods.wav
+25,بکرے کی نہاری,,گھی,"1½
+",پاﺅ,kfoods,dataset\Baray ki nihari - kfoods.wav
+25,بکرے کی نہاری,,پیاز ,½,کلو,kfoods,dataset\Baray ki nihari - kfoods.wav
+25,بکرے کی نہاری,,سونف,2,چائے کا چمچہ,kfoods,dataset\Baray ki nihari - kfoods.wav
+25,بکرے کی نہاری,,سونٹھ,2,ٹکڑے,kfoods,dataset\Baray ki nihari - kfoods.wav
+25,بکرے کی نہاری,,ادرک ، لہسن کا پیسٹ,2,چائے کا چمچہ,kfoods,dataset\Baray ki nihari - kfoods.wav
+25,بکرے کی نہاری,,پانی,2,جگ,kfoods,dataset\Baray ki nihari - kfoods.wav
+25,بکرے کی نہاری,,پسی لال مرچ,2,چائے کا چمچہ,kfoods,dataset\Baray ki nihari - kfoods.wav
+25,بکرے کی نہاری,,لال آٹا ,4,چائے کا چمچہ,kfoods,dataset\Baray ki nihari - kfoods.wav
+25,بکرے کی نہاری,,گرم مصالحہ,½,چائے کا چمچہ,kfoods,dataset\Baray ki nihari - kfoods.wav
+26,ادرک مٹن, ادرک مٹن بنانے کے اجزاء,,,,kfoods,dataset\Adrak mutton - kfoods.wav
+26,ادرک مٹن,,مٹن,"½
+",کلو,kfoods,dataset\Adrak mutton - kfoods.wav
+26,ادرک مٹن,,دہی,"½
+",پاﺅ,kfoods,dataset\Adrak mutton - kfoods.wav
+26,ادرک مٹن,,پیاز ,1,عدد,kfoods,dataset\Adrak mutton - kfoods.wav
+26,ادرک مٹن,,ہری مرچ,4,عدد,kfoods,dataset\Adrak mutton - kfoods.wav
+26,ادرک مٹن,,ادرک ,1,درمیانہ ٹکڑا,kfoods,dataset\Adrak mutton - kfoods.wav
+26,ادرک مٹن,,ہرا دھنیا ,1/4,گٹھی,kfoods,dataset\Adrak mutton - kfoods.wav
+26,ادرک مٹن,,پانی,"½
+",کپ,kfoods,dataset\Adrak mutton - kfoods.wav
+26,ادرک مٹن,,پسا گرم مصالحہ,½,چائے کا چمچہ,kfoods,dataset\Adrak mutton - kfoods.wav
+26,ادرک مٹن,,ہلدی,½,چائے کا چمچہ,kfoods,dataset\Adrak mutton - kfoods.wav
+26,ادرک مٹن,,ادرک لہسن کاپیسٹ ,2, کھانے کا چمچہ,kfoods,dataset\Adrak mutton - kfoods.wav
+26,ادرک مٹن,,تیل,3, کھانے کا چمچہ,kfoods,dataset\Adrak mutton - kfoods.wav
+26,ادرک مٹن,,نمک,,حسب ذائقہ,kfoods,dataset\Adrak mutton - kfoods.wav
+27,چکن پاستا ان ٹومیٹو سوس, چکن پاستا ان ٹومیٹو سوس بنانے کے اجزاء,,,,kfoods,dataset\Chicken Pasta ans Tomato Sauce - kfoods.wav
+27,چکن پاستا ان ٹومیٹو سوس,,پاستا,½,پیکٹ,kfoods,dataset\Chicken Pasta ans Tomato Sauce - kfoods.wav
+27,چکن پاستا ان ٹومیٹو سوس,,چکن بون لیس,300,گرام,kfoods,dataset\Chicken Pasta ans Tomato Sauce - kfoods.wav
+27,چکن پاستا ان ٹومیٹو سوس,,ہری مرچ,2,عدد,kfoods,dataset\Chicken Pasta ans Tomato Sauce - kfoods.wav
+27,چکن پاستا ان ٹومیٹو سوس,,چیز سلائس,3,عدد,kfoods,dataset\Chicken Pasta ans Tomato Sauce - kfoods.wav
+27,چکن پاستا ان ٹومیٹو سوس,,لہسن کا جوے,4,عدد,kfoods,dataset\Chicken Pasta ans Tomato Sauce - kfoods.wav
+27,چکن پاستا ان ٹومیٹو سوس,,پارسلے,1/4,گٹھی,kfoods,dataset\Chicken Pasta ans Tomato Sauce - kfoods.wav
+27,چکن پاستا ان ٹومیٹو سوس,,اُبلے ٹماٹر,5,عدد,kfoods,dataset\Chicken Pasta ans Tomato Sauce - kfoods.wav
+27,چکن پاستا ان ٹومیٹو سوس,,روز میری,½,چائے کا چمچہ,kfoods,dataset\Chicken Pasta ans Tomato Sauce - kfoods.wav
+27,چکن پاستا ان ٹومیٹو سوس,,اوریگانو,½,چائے کا چمچہ,kfoods,dataset\Chicken Pasta ans Tomato Sauce - kfoods.wav
+27,چکن پاستا ان ٹومیٹو سوس,,پسی کالی مرچ,½,چائے کا چمچہ,kfoods,dataset\Chicken Pasta ans Tomato Sauce - kfoods.wav
+27,چکن پاستا ان ٹومیٹو سوس,,تیل,4, کھانے کا چمچہ,kfoods,dataset\Chicken Pasta ans Tomato Sauce - kfoods.wav
+27,چکن پاستا ان ٹومیٹو سوس,,نمک,,حسب ذائقہ,kfoods,dataset\Chicken Pasta ans Tomato Sauce - kfoods.wav
+28,شریڈ چکن ان اویسٹر سوس, شریڈ چکن ان اویسٹر سوس بنانے کے اجزاء,,,,kfoods,dataset\Shred Chicken and Oyster Sauce - kfoods.wav
+28,شریڈ چکن ان اویسٹر سوس,,چکن بریسٹ,2,عدد,kfoods,dataset\Shred Chicken and Oyster Sauce - kfoods.wav
+28,شریڈ چکن ان اویسٹر سوس,,ہری پیاز,2,عدد,kfoods,dataset\Shred Chicken and Oyster Sauce - kfoods.wav
+28,شریڈ چکن ان اویسٹر سوس,,شملہ,1,عدد,kfoods,dataset\Shred Chicken and Oyster Sauce - kfoods.wav
+28,شریڈ چکن ان اویسٹر سوس,,لہسن,4,جوے,kfoods,dataset\Shred Chicken and Oyster Sauce - kfoods.wav
+28,شریڈ چکن ان اویسٹر سوس,,کٹی کالی مرچ,1, کھانے کا چمچہ,kfoods,dataset\Shred Chicken and Oyster Sauce - kfoods.wav
+28,شریڈ چکن ان اویسٹر سوس,,کارن فلور,1, کھانے کا چمچہ,kfoods,dataset\Shred Chicken and Oyster Sauce - kfoods.wav
+28,شریڈ چکن ان اویسٹر سوس,,اویسٹر سوس,3, کھانے کا چمچہ,kfoods,dataset\Shred Chicken and Oyster Sauce - kfoods.wav
+28,شریڈ چکن ان اویسٹر سوس,,تیل,4, کھانے کا چمچہ,kfoods,dataset\Shred Chicken and Oyster Sauce - kfoods.wav
+28,شریڈ چکن ان اویسٹر سوس,,نمک,,حسب ذائقہ,kfoods,dataset\Shred Chicken and Oyster Sauce - kfoods.wav
+29,وون چکن ود ویجیٹیبل,  وون چکن ود ویجیٹیبل بنانے کے اجزاء,,,,kfoods,dataset\Oven Chicken with Vegetable - kfoods.wav
+29,وون چکن ود ویجیٹیبل,,چکن بون لیس,½,کلو,kfoods,dataset\Oven Chicken with Vegetable - kfoods.wav
+29,وون چکن ود ویجیٹیبل,,لہسن,3,جوے,kfoods,dataset\Oven Chicken with Vegetable - kfoods.wav
+29,وون چکن ود ویجیٹیبل,,پیاز,2,عدد,kfoods,dataset\Oven Chicken with Vegetable - kfoods.wav
+29,وون چکن ود ویجیٹیبل,,پھلیاں,1,پاﺅ,kfoods,dataset\Oven Chicken with Vegetable - kfoods.wav
+29,وون چکن ود ویجیٹیبل,,بینگن,1,عدد,kfoods,dataset\Oven Chicken with Vegetable - kfoods.wav
+29,وون چکن ود ویجیٹیبل,,ٹماٹر,2,عدد,kfoods,dataset\Oven Chicken with Vegetable - kfoods.wav
+29,وون چکن ود ویجیٹیبل,,گاجر,1,عدد,kfoods,dataset\Oven Chicken with Vegetable - kfoods.wav
+29,وون چکن ود ویجیٹیبل,,آلو,1,عدد,kfoods,dataset\Oven Chicken with Vegetable - kfoods.wav
+29,وون چکن ود ویجیٹیبل,,بھنڈی,½,کلو,kfoods,dataset\Oven Chicken with Vegetable - kfoods.wav
+29,وون چکن ود ویجیٹیبل,,شملہ مرچ,1,عدد,kfoods,dataset\Oven Chicken with Vegetable - kfoods.wav
+29,وون چکن ود ویجیٹیبل,,ٹماٹو پیسٹ,2, کھانے کا چمچہ,kfoods,dataset\Oven Chicken with Vegetable - kfoods.wav
+29,وون چکن ود ویجیٹیبل,,کٹی کالی مرچ,1,چائے کا چمچہ,kfoods,dataset\Oven Chicken with Vegetable - kfoods.wav
+29,وون چکن ود ویجیٹیبل,,نمک,,حسب ذائقہ,kfoods,dataset\Oven Chicken with Vegetable - kfoods.wav
+29,وون چکن ود ویجیٹیبل,,مکھن,4, کھانے کا چمچہ,kfoods,dataset\Oven Chicken with Vegetable - kfoods.wav
+29,وون چکن ود ویجیٹیبل,,پانی,1/4,کپ,kfoods,dataset\Oven Chicken with Vegetable - kfoods.wav
+29,وون چکن ود ویجیٹیبل,,چیڈر چیز,½,پیکٹ,kfoods,dataset\Oven Chicken with Vegetable - kfoods.wav
+30,مٹن بون لیس تاری,مٹن بون لیس تاری بنانے کے اجزاء,,,,kfoods,dataset\Mutton Boneless Taari - kfoods.wav
+30,مٹن بون لیس تاری,,مٹن بون لیس,½,کلو,kfoods,dataset\Mutton Boneless Taari - kfoods.wav
+30,مٹن بون لیس تاری,,دہی,1,پاﺅ,kfoods,dataset\Mutton Boneless Taari - kfoods.wav
+30,مٹن بون لیس تاری,,پیاز,2,عدد,kfoods,dataset\Mutton Boneless Taari - kfoods.wav
+30,مٹن بون لیس تاری,,پانی,1,گلاس,kfoods,dataset\Mutton Boneless Taari - kfoods.wav
+30,مٹن بون لیس تاری,,ہرا دھنیا,1/4,گٹھی,kfoods,dataset\Mutton Boneless Taari - kfoods.wav
+30,مٹن بون لیس تاری,,تیل,1/4,کپ,kfoods,dataset\Mutton Boneless Taari - kfoods.wav
+30,مٹن بون لیس تاری,,ہلدی,1, کھانے کا چمچہ,kfoods,dataset\Mutton Boneless Taari - kfoods.wav
+30,مٹن بون لیس تاری,,زیرہ,1, کھانے کا چمچہ,kfoods,dataset\Mutton Boneless Taari - kfoods.wav
+30,مٹن بون لیس تاری,,پسا دھنیا,1, کھانے کا چمچہ,kfoods,dataset\Mutton Boneless Taari - kfoods.wav
+30,مٹن بون لیس تاری,,پسی لال مرچ,2, کھانے کا چمچہ,kfoods,dataset\Mutton Boneless Taari - kfoods.wav
+30,مٹن بون لیس تاری,,ادرک لہسن کاپیسٹ,2, کھانے کا چمچہ,kfoods,dataset\Mutton Boneless Taari - kfoods.wav
+30,مٹن بون لیس تاری,,نمک,,حسب ذائقہ,kfoods,dataset\Mutton Boneless Taari - kfoods.wav
+31,کھٹے میٹھے کوفتے, کھٹے میٹھے کوفتے بنانے کے اجزاء,,,,kfoods,dataset\Khatay Meethay Kooftay - kfoods.wav
+31,کھٹے میٹھے کوفتے,,قیمہ,½,کلو,kfoods,dataset\Khatay Meethay Kooftay - kfoods.wav
+31,کھٹے میٹھے کوفتے,,لہسن,4,جوے,kfoods,dataset\Khatay Meethay Kooftay - kfoods.wav
+31,کھٹے میٹھے کوفتے,,شملہ مرچ ,1,عدد,kfoods,dataset\Khatay Meethay Kooftay - kfoods.wav
+31,کھٹے میٹھے کوفتے,,پیاز,1,عدد,kfoods,dataset\Khatay Meethay Kooftay - kfoods.wav
+31,کھٹے میٹھے کوفتے,,ہری پیاز,1,عدد,kfoods,dataset\Khatay Meethay Kooftay - kfoods.wav
+31,کھٹے میٹھے کوفتے,,ٹماٹر,1,عدد,kfoods,dataset\Khatay Meethay Kooftay - kfoods.wav
+31,کھٹے میٹھے کوفتے,,انڈا,1,عدد,kfoods,dataset\Khatay Meethay Kooftay - kfoods.wav
+31,کھٹے میٹھے کوفتے,,پائن ایپل,2,سلائس,kfoods,dataset\Khatay Meethay Kooftay - kfoods.wav
+31,کھٹے میٹھے کوفتے,,ٹومیٹو کیچپ,½,کپ,kfoods,dataset\Khatay Meethay Kooftay - kfoods.wav
+31,کھٹے میٹھے کوفتے,,وویسٹرسوس,2, کھانے کا چمچہ,kfoods,dataset\Khatay Meethay Kooftay - kfoods.wav
+31,کھٹے میٹھے کوفتے,,ایچ پی سوس,1, کھانے کا چمچہ,kfoods,dataset\Khatay Meethay Kooftay - kfoods.wav
+31,کھٹے میٹھے کوفتے,,کارن فلور,2, کھانے کا چمچہ,kfoods,dataset\Khatay Meethay Kooftay - kfoods.wav
+31,کھٹے میٹھے کوفتے,,کالی مرچ,1/4,چائے کا چمچہ,kfoods,dataset\Khatay Meethay Kooftay - kfoods.wav
+31,کھٹے میٹھے کوفتے,,سفیدمرچ,1/4,چائے کا چمچہ,kfoods,dataset\Khatay Meethay Kooftay - kfoods.wav
+31,کھٹے میٹھے کوفتے,,تیل,,حسبِ ضرورت,kfoods,dataset\Khatay Meethay Kooftay - kfoods.wav
+31,کھٹے میٹھے کوفتے,,نمک,,حسب ذائقہ,kfoods,dataset\Khatay Meethay Kooftay - kfoods.wav
+32,فرائیڈ رائس نوڈلز,فرائیڈ رائس نوڈلز بنانے کے اجزاء,,,,kfoods,dataset\Fried Rice Noodles - kfoods.wav
+32,فرائیڈ رائس نوڈلز,,ابلے چاول,200,گرام,kfoods,dataset\Fried Rice Noodles - kfoods.wav
+32,فرائیڈ رائس نوڈلز,,ایک نوڈلز,½,پیکٹ,kfoods,dataset\Fried Rice Noodles - kfoods.wav
+32,فرائیڈ رائس نوڈلز,,درمیانی گاجر,1,عدد,kfoods,dataset\Fried Rice Noodles - kfoods.wav
+32,فرائیڈ رائس نوڈلز,,شملہ مرچ,1,عدد,kfoods,dataset\Fried Rice Noodles - kfoods.wav
+32,فرائیڈ رائس نوڈلز,,ہر ی مرچ,2,عدد,kfoods,dataset\Fried Rice Noodles - kfoods.wav
+32,فرائیڈ رائس نوڈلز,,انڈے,3,عدد,kfoods,dataset\Fried Rice Noodles - kfoods.wav
+32,فرائیڈ رائس نوڈلز,,بے بی کارن,5,عدد,kfoods,dataset\Fried Rice Noodles - kfoods.wav
+32,فرائیڈ رائس نوڈلز,,لہسن,5,جوے,kfoods,dataset\Fried Rice Noodles - kfoods.wav
+32,فرائیڈ رائس نوڈلز,,تیل,1/4,کپ,kfoods,dataset\Fried Rice Noodles - kfoods.wav
+32,فرائیڈ رائس نوڈلز,,بند گوبھی,1/4,ٹکڑا,kfoods,dataset\Fried Rice Noodles - kfoods.wav
+32,فرائیڈ رائس نوڈلز,,اُبلے مٹر,½,پیالی,kfoods,dataset\Fried Rice Noodles - kfoods.wav
+32,فرائیڈ رائس نوڈلز,,چینی,1,چائے کا چمچہ,kfoods,dataset\Fried Rice Noodles - kfoods.wav
+32,فرائیڈ رائس نوڈلز,,ہلدی,1, کھانے کا چمچہ,kfoods,dataset\Fried Rice Noodles - kfoods.wav
+32,فرائیڈ رائس نوڈلز,,سویا سوس,1, کھانے کا چمچہ,kfoods,dataset\Fried Rice Noodles - kfoods.wav
+32,فرائیڈ رائس نوڈلز,,ور چسٹر سوس,2, کھانے کا چمچہ,kfoods,dataset\Fried Rice Noodles - kfoods.wav
+32,فرائیڈ رائس نوڈلز,,پانی,,حسبِ ضرورت,kfoods,dataset\Fried Rice Noodles - kfoods.wav
+32,فرائیڈ رائس نوڈلز,,نمک,,حسب ذائقہ,kfoods,dataset\Fried Rice Noodles - kfoods.wav
+32,فرائیڈ رائس نوڈلز,,کالی مرچ,1,چائے کا چمچہ,kfoods,dataset\Fried Rice Noodles - kfoods.wav
+33,چاکلیٹ پیسٹری, چاکلیٹ پیسٹری بنانے کے اجزاء,,,,kfoods,dataset\Chocolate Pastry - kfoods.wav
+33,چاکلیٹ پیسٹری,,انڈے,15,عدد,kfoods,dataset\Chocolate Pastry - kfoods.wav
+33,چاکلیٹ پیسٹری,ڈوبنانے کے اجزاء,,,,kfoods,dataset\Chocolate Pastry - kfoods.wav
+33,چاکلیٹ پیسٹری,,میدہ,300,گرام,kfoods,dataset\Chocolate Pastry - kfoods.wav
+33,چاکلیٹ پیسٹری,,چینی,300,گرام,kfoods,dataset\Chocolate Pastry - kfoods.wav
+33,چاکلیٹ پیسٹری,,بیکنگ پاﺅڈر,1, کھانے کا چمچہ,kfoods,dataset\Chocolate Pastry - kfoods.wav
+33,چاکلیٹ پیسٹری,,کوکو پاﺅڈر,2, کھانے کا چمچہ,kfoods,dataset\Chocolate Pastry - kfoods.wav
+33,چاکلیٹ پیسٹری,ٹوپنگ کے اجزاء,سفید مکھن,200,گرام,kfoods,dataset\Chocolate Pastry - kfoods.wav
+33,چاکلیٹ پیسٹری,,فریش کریم,2,پیالی,kfoods,dataset\Chocolate Pastry - kfoods.wav
+33,چاکلیٹ پیسٹری,,آئسنگ شوگر,100,گرام,kfoods,dataset\Chocolate Pastry - kfoods.wav
+33,چاکلیٹ پیسٹری,,شوگر سیرپ,1,پیالی,kfoods,dataset\Chocolate Pastry - kfoods.wav
+33,چاکلیٹ پیسٹری,,کوکنگ چاکلیٹ,300,گرام,kfoods,dataset\Chocolate Pastry - kfoods.wav
+33,چاکلیٹ پیسٹری,,آئسنگ کریم,5, کھانے کا چمچہ,kfoods,dataset\Chocolate Pastry - kfoods.wav
+34,بلیو بیری فریش کسٹرڈ,بلیو بیری فریش کسٹرڈ بنانے کے اجزاء,,,,kfoods,dataset\Blueberry Fresh Custard  - kfoods.wav
+34,بلیو بیری فریش کسٹرڈ,,انڈے,6,عدد,kfoods,dataset\Blueberry Fresh Custard  - kfoods.wav
+34,بلیو بیری فریش کسٹرڈ,,چینی,1,کپ,kfoods,dataset\Blueberry Fresh Custard  - kfoods.wav
+34,بلیو بیری فریش کسٹرڈ,,دودھ,½,کلو,kfoods,dataset\Blueberry Fresh Custard  - kfoods.wav
+34,بلیو بیری فریش کسٹرڈ,,بلیو بیری,1,کپ,kfoods,dataset\Blueberry Fresh Custard  - kfoods.wav
+34,بلیو بیری فریش کسٹرڈ,,ونیلا ایسنس,,چند قطرے,kfoods,dataset\Blueberry Fresh Custard  - kfoods.wav
+35,بیف بیکنگ رول, بیف بیکنگ رول بنانے کے اجزاء,,,,kfoods,dataset\Beef Baking Roll - kfoods.wav
+35,بیف بیکنگ رول,,بیف انڈر کٹ,300,گرام,kfoods,dataset\Beef Baking Roll - kfoods.wav
+35,بیف بیکنگ رول,,انڈا,1,عدد,kfoods,dataset\Beef Baking Roll - kfoods.wav
+35,بیف بیکنگ رول,,ہری پیاز,1,عدد,kfoods,dataset\Beef Baking Roll - kfoods.wav
+35,بیف بیکنگ رول,,درمیانی گاجر,1,عدد,kfoods,dataset\Beef Baking Roll - kfoods.wav
+35,بیف بیکنگ رول,,میدہ,1, پیالی,kfoods,dataset\Beef Baking Roll - kfoods.wav
+35,بیف بیکنگ رول,,دودھ,1, پیالی,kfoods,dataset\Beef Baking Roll - kfoods.wav
+35,بیف بیکنگ رول,,درمیانی پیاز,½,,kfoods,dataset\Beef Baking Roll - kfoods.wav
+35,بیف بیکنگ رول,,موزریلا چیز,1, پیالی,kfoods,dataset\Beef Baking Roll - kfoods.wav
+35,بیف بیکنگ رول,,کالی مرچ,1,چائے کا چمچہ,kfoods,dataset\Beef Baking Roll - kfoods.wav
+35,بیف بیکنگ رول,,کٹی کالی مرچ,1, کھانے کا چمچہ,kfoods,dataset\Beef Baking Roll - kfoods.wav
+35,بیف بیکنگ رول,,تیل,,حسبِ ضرورت,kfoods,dataset\Beef Baking Roll - kfoods.wav
+35,بیف بیکنگ رول,,نمک,,حسب ذائقہ,kfoods,dataset\Beef Baking Roll - kfoods.wav
+36,یاکی چکن,یاکی چکن بنانے کے اجزاء,,,,kfoods,dataset\Yaaki Chicken - kfoods.wav
+36,یاکی چکن,,چکن بریسٹ,2,عدد,kfoods,dataset\Yaaki Chicken - kfoods.wav
+36,یاکی چکن,,نمک,,حسب ذائقہ,kfoods,dataset\Yaaki Chicken - kfoods.wav
+36,یاکی چکن,,ادرک لہسن کا پیسٹ,1,چائے کا چمچہ,kfoods,dataset\Yaaki Chicken - kfoods.wav
+36,یاکی چکن,,پسی کالی مرچ,½,چائے کا چمچہ,kfoods,dataset\Yaaki Chicken - kfoods.wav
+36,یاکی چکن,,سفید مرچ,½,چائے کا چمچہ,kfoods,dataset\Yaaki Chicken - kfoods.wav
+36,یاکی چکن,,شہد,3, کھانے کا چمچہ,kfoods,dataset\Yaaki Chicken - kfoods.wav
+36,یاکی چکن,,باریک کٹی شملہ مرچ,1,عدد,kfoods,dataset\Yaaki Chicken - kfoods.wav
+36,یاکی چکن,,ہری پیاز,1,عدد,kfoods,dataset\Yaaki Chicken - kfoods.wav
+36,یاکی چکن,,وویسٹر سوس,2, کھانے کا چمچہ,kfoods,dataset\Yaaki Chicken - kfoods.wav
+36,یاکی چکن,,ٹومیٹو کیچپ,2, کھانے کا چمچہ,kfoods,dataset\Yaaki Chicken - kfoods.wav
+36,یاکی چکن,,سویا سوس,2, کھانے کا چمچہ,kfoods,dataset\Yaaki Chicken - kfoods.wav
+36,یاکی چکن,,کارن فلور,2, کھانے کا چمچہ,kfoods,dataset\Yaaki Chicken - kfoods.wav
+36,یاکی چکن,,چکن کی یخنی,½,کپ,kfoods,dataset\Yaaki Chicken - kfoods.wav
+36,یاکی چکن,,تیل,4, کھانے کا چمچہ,kfoods,dataset\Yaaki Chicken - kfoods.wav
+37,ایپل اورنج رائس,ایپل اورنج رائس بنانے کے اجزاء,,,,kfoods,dataset\Apple Orange Rice - kfoods.wav
+37,ایپل اورنج رائس,,کینو,2,عدد,kfoods,dataset\Apple Orange Rice - kfoods.wav
+37,ایپل اورنج رائس,,لال سیب,2,عدد,kfoods,dataset\Apple Orange Rice - kfoods.wav
+37,ایپل اورنج رائس,,چاول,300,گرام,kfoods,dataset\Apple Orange Rice - kfoods.wav
+37,ایپل اورنج رائس,,پارسلے,2, کھانے کا چمچہ,kfoods,dataset\Apple Orange Rice - kfoods.wav
+37,ایپل اورنج رائس,,ہری پیاز,2,عدد,kfoods,dataset\Apple Orange Rice - kfoods.wav
+37,ایپل اورنج رائس,,انڈے,3,عدد,kfoods,dataset\Apple Orange Rice - kfoods.wav
+37,ایپل اورنج رائس,,تیل,1/4, کپ,kfoods,dataset\Apple Orange Rice - kfoods.wav
+37,ایپل اورنج رائس,,نمک,,حسب ذائقہ,kfoods,dataset\Apple Orange Rice - kfoods.wav
+37,ایپل اورنج رائس,,لہسن,2,جوے,kfoods,dataset\Apple Orange Rice - kfoods.wav
+38,حیدر آبادی بریانی,حیدر آبادی بریانی بنانے کے اجزاء,,,,hum masala,dataset\Hyderabadi biryani.wav
+38,حیدر آبادی بریانی,,بکری کا گوشت,1,کلو,hum masala,dataset\Hyderabadi biryani.wav
+38,حیدر آبادی بریانی,,چاول,1,کلو,hum masala,dataset\Hyderabadi biryani.wav
+38,حیدر آبادی بریانی,,دہی,1,پیالی,hum masala,dataset\Hyderabadi biryani.wav
+38,حیدر آبادی بریانی,,گرم دودھ,1,پیالی,hum masala,dataset\Hyderabadi biryani.wav
+38,حیدر آبادی بریانی,,گھی,1,پیالی,hum masala,dataset\Hyderabadi biryani.wav
+38,حیدر آبادی بریانی,,باریک کٹی پیاز ,4,عدد,hum masala,dataset\Hyderabadi biryani.wav
+38,حیدر آبادی بریانی,,لونگ,4,عدد,hum masala,dataset\Hyderabadi biryani.wav
+38,حیدر آبادی بریانی,,لیموں,6,عدد,hum masala,dataset\Hyderabadi biryani.wav
+38,حیدر آبادی بریانی,,ہری مرچ,6,عدد,hum masala,dataset\Hyderabadi biryani.wav
+38,حیدر آبادی بریانی,,ثابت کالی مرچ,8,عدد,hum masala,dataset\Hyderabadi biryani.wav
+38,حیدر آبادی بریانی,,چھوٹی الائچی,8,عدد,hum masala,dataset\Hyderabadi biryani.wav
+38,حیدر آبادی بریانی,,باریک کٹا پودینه,1,گٹھی,hum masala,dataset\Hyderabadi biryani.wav
+38,حیدر آبادی بریانی,,زردے کا رنگ,1,چٹکی,hum masala,dataset\Hyderabadi biryani.wav
+38,حیدر آبادی بریانی,,کالا زیرہ,1,چائے کا چمچہ,hum masala,dataset\Hyderabadi biryani.wav
+38,حیدر آبادی بریانی,,سفید سرکہ,1, کھانے کا چمچہ,hum masala,dataset\Hyderabadi biryani.wav
+38,حیدر آبادی بریانی,,پسی لال مرچ,1, کھانے کا چمچہ,hum masala,dataset\Hyderabadi biryani.wav
+38,حیدر آبادی بریانی,,کچا پسا ہوا پپیتا,2, کھانے کا چمچہ,hum masala,dataset\Hyderabadi biryani.wav
+38,حیدر آبادی بریانی,,ادرک لہسن کا پیسٹ,½-1, کھانے کا چمچہ,hum masala,dataset\Hyderabadi biryani.wav
+38,حیدر آبادی بریانی,,نمک,,حسب ذائقہ,hum masala,dataset\Hyderabadi biryani.wav
+39,ثابت کالی مسور اینڈ چکن بریانی,ثابت کالی مسور اینڈ چکن بریانی  بنانے کے اجزاء,,,,hum masala,dataset\Sabut-kali-masoor-and-chicken-biryani.wav
+39,ثابت کالی مسور اینڈ چکن بریانی,,ثابت کالی مسور,1,پیالی,hum masala,dataset\Sabut-kali-masoor-and-chicken-biryani.wav
+39,ثابت کالی مسور اینڈ چکن بریانی,,چکن (14 ٹکڑے),½-1,کلو,hum masala,dataset\Sabut-kali-masoor-and-chicken-biryani.wav
+39,ثابت کالی مسور اینڈ چکن بریانی,,باسمتی چاول,1,کلو,hum masala,dataset\Sabut-kali-masoor-and-chicken-biryani.wav
+39,ثابت کالی مسور اینڈ چکن بریانی,,باریک کٹی پیاز,4,عدد,hum masala,dataset\Sabut-kali-masoor-and-chicken-biryani.wav
+39,ثابت کالی مسور اینڈ چکن بریانی,,ہری مرچ,8,عدد,hum masala,dataset\Sabut-kali-masoor-and-chicken-biryani.wav
+39,ثابت کالی مسور اینڈ چکن بریانی,,دہی,1,پیالی,hum masala,dataset\Sabut-kali-masoor-and-chicken-biryani.wav
+39,ثابت کالی مسور اینڈ چکن بریانی,,پودینہ,1,گٹھی,hum masala,dataset\Sabut-kali-masoor-and-chicken-biryani.wav
+39,ثابت کالی مسور اینڈ چکن بریانی,,لیموں,6,عدد,hum masala,dataset\Sabut-kali-masoor-and-chicken-biryani.wav
+39,ثابت کالی مسور اینڈ چکن بریانی,,سفید سرکہ,1, کھانے کا چمچہ,hum masala,dataset\Sabut-kali-masoor-and-chicken-biryani.wav
+39,ثابت کالی مسور اینڈ چکن بریانی,,ادرک لہسن کا پیٹ,1, کھانے کا چمچہ,hum masala,dataset\Sabut-kali-masoor-and-chicken-biryani.wav
+39,ثابت کالی مسور اینڈ چکن بریانی,,چھوٹی الائچی,4,عدد,hum masala,dataset\Sabut-kali-masoor-and-chicken-biryani.wav
+39,ثابت کالی مسور اینڈ چکن بریانی,,ثابت کالی مرچ,6-8,عدد,hum masala,dataset\Sabut-kali-masoor-and-chicken-biryani.wav
+39,ثابت کالی مسور اینڈ چکن بریانی,,تیل,1,پیالی,hum masala,dataset\Sabut-kali-masoor-and-chicken-biryani.wav
+39,ثابت کالی مسور اینڈ چکن بریانی,,کالا زیرہ,1,چائے کا چمچہ,hum masala,dataset\Sabut-kali-masoor-and-chicken-biryani.wav
+39,ثابت کالی مسور اینڈ چکن بریانی,,مکھن,1,چائے کا چمچہ,hum masala,dataset\Sabut-kali-masoor-and-chicken-biryani.wav
+39,ثابت کالی مسور اینڈ چکن بریانی,,نمک,,حسب ذائقہ,hum masala,dataset\Sabut-kali-masoor-and-chicken-biryani.wav
+40,ڈرائی چلی چکن, ڈرائی چلی چکن بنانے کے اجزاء,,,,hum masala,dataset\dry chilli chicken.wav
+40,ڈرائی چلی چکن,,بون لیس چکن,½,کلو,hum masala,dataset\dry chilli chicken.wav
+40,ڈرائی چلی چکن,,چوکور کٹی پیاز,1,عدد,hum masala,dataset\dry chilli chicken.wav
+40,ڈرائی چلی چکن,,ہری پیاز,2,عدد,hum masala,dataset\dry chilli chicken.wav
+40,ڈرائی چلی چکن,,سوکھی لال مرچ,10,عدد,hum masala,dataset\dry chilli chicken.wav
+40,ڈرائی چلی چکن,,چلی گارلک سوس,½,کپ,hum masala,dataset\dry chilli chicken.wav
+40,ڈرائی چلی چکن,,کٹا لہسن,1,چائے کا چمچہ,hum masala,dataset\dry chilli chicken.wav
+40,ڈرائی چلی چکن,,براؤن شوگر,1,چائے کا چمچہ,hum masala,dataset\dry chilli chicken.wav
+40,ڈرائی چلی چکن,,کٹی کالی مرچ,1,چائے کا چمچہ,hum masala,dataset\dry chilli chicken.wav
+40,ڈرائی چلی چکن,,سرکہ,1, کھانے کا چمچہ,hum masala,dataset\dry chilli chicken.wav
+40,ڈرائی چلی چکن,,کارن فلور,1, کھانے کا چمچہ,hum masala,dataset\dry chilli chicken.wav
+40,ڈرائی چلی چکن,,پیپریکا پاؤڈر,2,چائے کا چمچہ,hum masala,dataset\dry chilli chicken.wav
+40,ڈرائی چلی چکن,,تیل,2, کھانے کا چمچہ,hum masala,dataset\dry chilli chicken.wav
+40,ڈرائی چلی چکن,, ڈارک سویا سوس,3, کھانے کا چمچہ,hum masala,dataset\dry chilli chicken.wav
+40,ڈرائی چلی چکن,, چلی سوس,4, کھانے کا چمچہ,hum masala,dataset\dry chilli chicken.wav
+40,ڈرائی چلی چکن,,نمک,½,چائے کا چمچہ,hum masala,dataset\dry chilli chicken.wav
+41,چٹخارے دار دہی بڑے,چٹخارے دار دہی بڑے بنانے کے اجزاء,,,,hum masala,dataset\Chatkharaydar dahi baray.wav
+41,چٹخارے دار دہی بڑے,پھلکی کے لیے اجزاء ,,,,hum masala,dataset\Chatkharaydar dahi baray.wav
+41,چٹخارے دار دہی بڑے,,مونگ اور ماش کی دال,1,کپ,hum masala,dataset\Chatkharaydar dahi baray.wav
+41,چٹخارے دار دہی بڑے,,زیره,1,چائے کا چمچہ,hum masala,dataset\Chatkharaydar dahi baray.wav
+41,چٹخارے دار دہی بڑے,,لال مرچ,2,چائے کا چمچہ,hum masala,dataset\Chatkharaydar dahi baray.wav
+41,چٹخارے دار دہی بڑے,,لہسن کے جوے,4,عدد,hum masala,dataset\Chatkharaydar dahi baray.wav
+41,چٹخارے دار دہی بڑے,,پیاز,1,عدد,hum masala,dataset\Chatkharaydar dahi baray.wav
+41,چٹخارے دار دہی بڑے,,ہری مرچ,2,عدد,hum masala,dataset\Chatkharaydar dahi baray.wav
+41,چٹخارے دار دہی بڑے,,نمک,½,چائے کا چمچہ,hum masala,dataset\Chatkharaydar dahi baray.wav
+41,چٹخارے دار دہی بڑے,,تیل (تلنے کے لیے) ,,حسب ضرورت,hum masala,dataset\Chatkharaydar dahi baray.wav
+41,چٹخارے دار دہی بڑے,دہی کے لیے اجزاء,,,,hum masala,dataset\Chatkharaydar dahi baray.wav
+41,چٹخارے دار دہی بڑے,,دہی,½,کلو,hum masala,dataset\Chatkharaydar dahi baray.wav
+41,چٹخارے دار دہی بڑے,,دودھ,1,کپ,hum masala,dataset\Chatkharaydar dahi baray.wav
+41,چٹخارے دار دہی بڑے,,ہری مرچوں کا پیسٹ ,2,چائے کا چمچہ,hum masala,dataset\Chatkharaydar dahi baray.wav
+41,چٹخارے دار دہی بڑے,,نمک,½,چائے کا چمچہ,hum masala,dataset\Chatkharaydar dahi baray.wav
+41,چٹخارے دار دہی بڑے,,بھنا ہوا زیرہ,2,چائے کا چمچہ,hum masala,dataset\Chatkharaydar dahi baray.wav
+41,چٹخارے دار دہی بڑے,,بھنی پسی ثابت گول مرچ,1,چائے کا چمچہ,hum masala,dataset\Chatkharaydar dahi baray.wav
+41,چٹخارے دار دہی بڑے,,گاڑھا املی کارس,4, کھانے کا چمچہ,hum masala,dataset\Chatkharaydar dahi baray.wav
+42,پین کباب,پین کباب  بنانے کے اجزاء,,,,hum masala,dataset\pan-kabab.wav
+42,پین کباب,,قیمہ,½,کلو,hum masala,dataset\pan-kabab.wav
+42,پین کباب,,انڈا,1,عدد,hum masala,dataset\pan-kabab.wav
+42,پین کباب,,خشخاش,1, کھانے کا چمچہ,hum masala,dataset\pan-kabab.wav
+42,پین کباب,,پسا گرم مصالحہ,1,چائے کا چمچہ,hum masala,dataset\pan-kabab.wav
+42,پین کباب,,نمک,1,چائے کا چمچہ,hum masala,dataset\pan-kabab.wav
+42,پین کباب,,پسا ناریل,1,چائے کا چمچہ,hum masala,dataset\pan-kabab.wav
+42,پین کباب,,پیاز,1,عدد,hum masala,dataset\pan-kabab.wav
+42,پین کباب,,ہری مرچ,2,عدد,hum masala,dataset\pan-kabab.wav
+42,پین کباب,,لہسن کے جوے,4,عدد,hum masala,dataset\pan-kabab.wav
+42,پین کباب,,پسی لال مرچ,1,چائے کا چمچہ,hum masala,dataset\pan-kabab.wav
+42,پین کباب,مصالحہ بنانے کے لیے اجزاء,,,,hum masala,dataset\pan-kabab.wav
+42,پین کباب,,ٹماٹر,4,عدد,hum masala,dataset\pan-kabab.wav
+42,پین کباب,,ہری مرچ,6,عدد,hum masala,dataset\pan-kabab.wav
+42,پین کباب,,پیاز,2,عدد,hum masala,dataset\pan-kabab.wav
+42,پین کباب,,کٹی کالی مرچ,1,چائے کا چمچہ,hum masala,dataset\pan-kabab.wav
+42,پین کباب,,نمک,½,چائے کا چمچہ,hum masala,dataset\pan-kabab.wav
+42,پین کباب,,لیموں کا رس,2, کھانے کا چمچہ,hum masala,dataset\pan-kabab.wav
+42,پین کباب,,ثابت دھنیا,1,چائے کا چمچہ,hum masala,dataset\pan-kabab.wav
+42,پین کباب,,سونف,1,چائے کا چمچہ,hum masala,dataset\pan-kabab.wav
+42,پین کباب,,تیل,½,کپ,hum masala,dataset\pan-kabab.wav
+43,گرین چکن ود کوکونٹ رائس,گرین چکن ود کوکونٹ رائس بنانے کے اجزاء,,,,hum masala,dataset\Green Chicken with Coconut Rice.wav
+43,گرین چکن ود کوکونٹ رائس,,چکن (16 ٹکڑے),1,عدد,hum masala,dataset\Green Chicken with Coconut Rice.wav
+43,گرین چکن ود کوکونٹ رائس,,ہرا دھنیا,2,گٹھی,hum masala,dataset\Green Chicken with Coconut Rice.wav
+43,گرین چکن ود کوکونٹ رائس,,لہسن کے چھلے جوے,8,عدد,hum masala,dataset\Green Chicken with Coconut Rice.wav
+43,گرین چکن ود کوکونٹ رائس,,ہری مرچ,10,عدد,hum masala,dataset\Green Chicken with Coconut Rice.wav
+43,گرین چکن ود کوکونٹ رائس,,دہی,1,پیالی,hum masala,dataset\Green Chicken with Coconut Rice.wav
+43,گرین چکن ود کوکونٹ رائس,,ادرک لہسن کا پیسٹ,1, کھانے کا چمچہ,hum masala,dataset\Green Chicken with Coconut Rice.wav
+43,گرین چکن ود کوکونٹ رائس,,کارن فلور,2, کھانے کا چمچہ,hum masala,dataset\Green Chicken with Coconut Rice.wav
+43,گرین چکن ود کوکونٹ رائس,,سویا سوس,2, کھانے کا چمچہ,hum masala,dataset\Green Chicken with Coconut Rice.wav
+43,گرین چکن ود کوکونٹ رائس,,نمک,,حسب ذائقہ,hum masala,dataset\Green Chicken with Coconut Rice.wav
+43,گرین چکن ود کوکونٹ رائس,,لیموں,2,عدد,hum masala,dataset\Green Chicken with Coconut Rice.wav
+43,گرین چکن ود کوکونٹ رائس,,کوکونٹ ملک,1,ٹن,hum masala,dataset\Green Chicken with Coconut Rice.wav
+43,گرین چکن ود کوکونٹ رائس,,چاول,2,پیالی,hum masala,dataset\Green Chicken with Coconut Rice.wav
+43,گرین چکن ود کوکونٹ رائس,,باریک کٹی پیاز,3,عدد,hum masala,dataset\Green Chicken with Coconut Rice.wav
+43,گرین چکن ود کوکونٹ رائس,,کٹی کالی مرچ,1,چائے کا چمچہ,hum masala,dataset\Green Chicken with Coconut Rice.wav
+43,گرین چکن ود کوکونٹ رائس,,ثابت تازہ لال مرچ,6,عدد,hum masala,dataset\Green Chicken with Coconut Rice.wav
+43,گرین چکن ود کوکونٹ رائس,,تیل,1,پیالی,hum masala,dataset\Green Chicken with Coconut Rice.wav
+43,گرین چکن ود کوکونٹ رائس,,مکھن,1, کھانے کا چمچہ,hum masala,dataset\Green Chicken with Coconut Rice.wav
+44,چلی سیلیڈ, چلی سیلیڈ بنانے کے اجزاء,,,,hum masala,dataset\Chili Salad.wav
+44,چلی سیلیڈ,,چلی چیس,3,پیکٹ,hum masala,dataset\Chili Salad.wav
+44,چلی سیلیڈ,,باریک کٹاسیب,1,عدد,hum masala,dataset\Chili Salad.wav
+44,چلی سیلیڈ,,لیموں,2,عدد,hum masala,dataset\Chili Salad.wav
+44,چلی سیلیڈ,,باریک کٹی ہری مرچ,4,عدد,hum masala,dataset\Chili Salad.wav
+44,چلی سیلیڈ,,باریک کٹے بادام,10,عدد,hum masala,dataset\Chili Salad.wav
+44,چلی سیلیڈ,,باریک کٹی ہری پیاز,2,گٹھی,hum masala,dataset\Chili Salad.wav
+44,چلی سیلیڈ,,باریک کٹا پودینه,½,گٹھی,hum masala,dataset\Chili Salad.wav
+44,چلی سیلیڈ,,چینی,1,چائے کا چمچہ,hum masala,dataset\Chili Salad.wav
+44,چلی سیلیڈ,,کٹی کالی مرچ,1,چائے کا چمچہ,hum masala,dataset\Chili Salad.wav
+44,چلی سیلیڈ,,نمک,,حسب ذائقہ,hum masala,dataset\Chili Salad.wav
+45,چکن بوٹی مصالحہ,چکن بوٹی مصالحہ بنانے کے اجزاء,,,,hum masala,dataset\Chicken Boti Masala.wav
+45,چکن بوٹی مصالحہ,,چکن بون لیس بوٹی,½,کلو,hum masala,dataset\Chicken Boti Masala.wav
+45,چکن بوٹی مصالحہ,,چکن مصالحہ تکہ,2, کھانے کا چمچہ,hum masala,dataset\Chicken Boti Masala.wav
+45,چکن بوٹی مصالحہ,,کٹی لال مرچ,1,چائے کا چمچہ,hum masala,dataset\Chicken Boti Masala.wav
+45,چکن بوٹی مصالحہ,,ادرک لہسن کا پیسٹ,1, کھانے کا چمچہ,hum masala,dataset\Chicken Boti Masala.wav
+45,چکن بوٹی مصالحہ,,لیموں,2,عدد,hum masala,dataset\Chicken Boti Masala.wav
+45,چکن بوٹی مصالحہ,,کٹی کالی مرچ,1,چائے کا چمچہ,hum masala,dataset\Chicken Boti Masala.wav
+45,چکن بوٹی مصالحہ,,کچلی ہری مرچ,2,عدد,hum masala,dataset\Chicken Boti Masala.wav
+45,چکن بوٹی مصالحہ,,دہی,½,پیالی,hum masala,dataset\Chicken Boti Masala.wav
+45,چکن بوٹی مصالحہ,,تیل,½,پیالی,hum masala,dataset\Chicken Boti Masala.wav
+45,چکن بوٹی مصالحہ,,باریک کٹا ہرا دھنیا,1,گٹھی,hum masala,dataset\Chicken Boti Masala.wav
+45,چکن بوٹی مصالحہ,,نمک,,حسب ذائقہ,hum masala,dataset\Chicken Boti Masala.wav
+46,مٹر پنیر پلاؤ,مٹر پنیر پلاؤ بنانے کے اجزاء,,,,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,چاول,½-2,پیالی,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,چھلے مٹر,1,پیالی,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,کو ٹیج چیز,2,پیکٹ,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,باریک کٹی پیاز,4,عدد,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,دہی,½,پیالی,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,ادرک لہسن کا پیسٹ,1, کھانے کا چمچہ,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,چھوٹی الائچی,4,عدد,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,ثابت کالی مرچ,6,عدد,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,بار یک کٹا پودینہ,½,گٹھی,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,ابلے بادام,10,عدد,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,کالا زیرہ,1,چائے کا چمچہ,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,ثابت ہری مرچ,6,عدد,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,نمک,,حسب ذائقہ,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,تیل,1,پیالی,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,یخنی کے لیے,,,,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,سونف,1,چائے کا چمچہ,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,ثابت دھنیا,1, کھانے کا چمچہ,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,ثابت گرم مصالحہ,,تھوڑا سا,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,پیاز,2,عدد,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,لہسن,1,عدد,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,ادرک,1,ٹکڑا,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,نمک,,حسب ذائقہ,hum masala,dataset\Mater Paneer Pulao.wav
+46,مٹر پنیر پلاؤ,,پانی,3,پیالی,hum masala,dataset\Mater Paneer Pulao.wav
+47,ساگ قیمه,ساگ قیمه بنانے کے اجزاء,,,,hum masala,dataset\Saag-qeema.wav
+47,ساگ قیمه,,قیمہ (ہاتھ کا کٹا ہوا),½,کلو,hum masala,dataset\Saag-qeema.wav
+47,ساگ قیمه,,باریک کٹی پالک,½,کلو,hum masala,dataset\Saag-qeema.wav
+47,ساگ قیمه,,باریک کٹا سویا,2,گٹھی,hum masala,dataset\Saag-qeema.wav
+47,ساگ قیمه,,ہلدی (ساگ بھگونے کے لیے ),½,چائے کا چمچہ,hum masala,dataset\Saag-qeema.wav
+47,ساگ قیمه,,باریک کٹی میتھی,6,گٹھی,hum masala,dataset\Saag-qeema.wav
+47,ساگ قیمه,,ہری مرچ,6,عدد,hum masala,dataset\Saag-qeema.wav
+47,ساگ قیمه,,پسی لال مرچ,1, کھانے کا چمچہ,hum masala,dataset\Saag-qeema.wav
+47,ساگ قیمه,,بلدی,1,چائے کا چمچہ,hum masala,dataset\Saag-qeema.wav
+47,ساگ قیمه,,ادرک لہسن کا پیسٹ,1, کھانے کا چمچہ,hum masala,dataset\Saag-qeema.wav
+47,ساگ قیمه,,نمک,,حسب ذائقہ,hum masala,dataset\Saag-qeema.wav
+47,ساگ قیمه,,باریک کٹی پیاز ,2,عدد,hum masala,dataset\Saag-qeema.wav
+47,ساگ قیمه,,باریک کٹا ہرا دھنیا,½,گٹھی,hum masala,dataset\Saag-qeema.wav
+47,ساگ قیمه,,تیل,1,پیالی,hum masala,dataset\Saag-qeema.wav
+48,کدو کی بھاجی,کدو کی بھاجی بنانے کے اجزاء,کدو,½,کلو,kfoods,dataset\Kadoo Ki Bhajji - kfoods.wav
+48,کدو کی بھاجی,,ادرک لہسن کا پیسٹ,2,کھانے کا چمچہ,kfoods,dataset\Kadoo Ki Bhajji - kfoods.wav
+48,کدو کی بھاجی,,اُبلے ہوئے ٹماٹر,2,عدد,kfoods,dataset\Kadoo Ki Bhajji - kfoods.wav
+48,کدو کی بھاجی,,پیاز,2,عدد,kfoods,dataset\Kadoo Ki Bhajji - kfoods.wav
+48,کدو کی بھاجی,,ہرا دھنیا,1/4,گٹھی,kfoods,dataset\Kadoo Ki Bhajji - kfoods.wav
+48,کدو کی بھاجی,,ہری مرچ,4,عدد,kfoods,dataset\Kadoo Ki Bhajji - kfoods.wav
+48,کدو کی بھاجی,,کٹی لال مرچ,1,کھانے کا چمچہ,kfoods,dataset\Kadoo Ki Bhajji - kfoods.wav
+48,کدو کی بھاجی,,پسا گرم مصالحہ,1,چائے کا چمچہ,kfoods,dataset\Kadoo Ki Bhajji - kfoods.wav
+48,کدو کی بھاجی,,ہلدی,1,چائے کا چمچہ,kfoods,dataset\Kadoo Ki Bhajji - kfoods.wav
+48,کدو کی بھاجی,,رائی,½,چائے کا چمچہ,kfoods,dataset\Kadoo Ki Bhajji - kfoods.wav
+48,کدو کی بھاجی,,کلونجی,½,چائے کا چمچہ,kfoods,dataset\Kadoo Ki Bhajji - kfoods.wav
+48,کدو کی بھاجی,,تیل,1/4,کپ,kfoods,dataset\Kadoo Ki Bhajji - kfoods.wav
+48,کدو کی بھاجی,,نمک,,حسب ذائقہ,kfoods,dataset\Kadoo Ki Bhajji - kfoods.wav
+49,چٹ پٹا چکن,چٹ پٹا چکن بنانے کے اجزاء,چکن بریسٹ,½,کلو,kfoods,dataset\Chatpata Chicken - kfoods.wav
+49,چٹ پٹا چکن,,لال شملہ,1,عدد,kfoods,dataset\Chatpata Chicken - kfoods.wav
+49,چٹ پٹا چکن,,ہری شملہ مرچ,1,عدد,kfoods,dataset\Chatpata Chicken - kfoods.wav
+49,چٹ پٹا چکن,,پیاز,1,عدد,kfoods,dataset\Chatpata Chicken - kfoods.wav
+49,چٹ پٹا چکن,,آلو ابلے,2,عدد,kfoods,dataset\Chatpata Chicken - kfoods.wav
+49,چٹ پٹا چکن,,اورنج جوس,1,کپ,kfoods,dataset\Chatpata Chicken - kfoods.wav
+49,چٹ پٹا چکن,,روز میری,1,چائے کا چمچہ,kfoods,dataset\Chatpata Chicken - kfoods.wav
+49,چٹ پٹا چکن,,اوریگانو,1,چائے کا چمچہ,kfoods,dataset\Chatpata Chicken - kfoods.wav
+49,چٹ پٹا چکن,,کٹی سونف,1,چائے کا چمچہ,kfoods,dataset\Chatpata Chicken - kfoods.wav
+49,چٹ پٹا چکن,,کٹی لال مرچ,1,چائے کا چمچہ,kfoods,dataset\Chatpata Chicken - kfoods.wav
+49,چٹ پٹا چکن,,کٹی کالی مرچ,1,چائے کا چمچہ,kfoods,dataset\Chatpata Chicken - kfoods.wav
+49,چٹ پٹا چکن,,لہسن کا پیسٹ,1,کھانے کا چمچہ,kfoods,dataset\Chatpata Chicken - kfoods.wav
+49,چٹ پٹا چکن,,لیموں کا رس,2,کھانے کا چمچہ,kfoods,dataset\Chatpata Chicken - kfoods.wav
+49,چٹ پٹا چکن,,کارن فلور,2,کھانے کا چمچہ,kfoods,dataset\Chatpata Chicken - kfoods.wav
+49,چٹ پٹا چکن,,تیل,3,کھانے کا چمچہ,kfoods,dataset\Chatpata Chicken - kfoods.wav
+49,چٹ پٹا چکن,,نمک,,حسب ذائقہ,kfoods,dataset\Chatpata Chicken - kfoods.wav
+50,میکرونی ود پران,میکرونی ود پران  بنانے کے اجزاء,جھینگے,½,کلو,kfoods,dataset\Macronni with prawn - kfoods.wav
+50,میکرونی ود پران,,ابلی میکرونی,½,پیکٹ,kfoods,dataset\Macronni with prawn - kfoods.wav
+50,میکرونی ود پران,,دودھ,½,کلو,kfoods,dataset\Macronni with prawn - kfoods.wav
+50,میکرونی ود پران,,لہسن کا پیسٹ,1,کھانے کا چمچہ,kfoods,dataset\Macronni with prawn - kfoods.wav
+50,میکرونی ود پران,,پارسلے,1/4,گٹھی,kfoods,dataset\Macronni with prawn - kfoods.wav
+50,میکرونی ود پران,, میدہ,3-4,کھانے کا چمچہ,kfoods,dataset\Macronni with prawn - kfoods.wav
+50,میکرونی ود پران,,اوریگانو,½,چائے کا چمچہ,kfoods,dataset\Macronni with prawn - kfoods.wav
+50,میکرونی ود پران,,روزمیری,½,چائے کا چمچہ,kfoods,dataset\Macronni with prawn - kfoods.wav
+50,میکرونی ود پران,,کٹی لال مرچ,1,چائے کا چمچہ,kfoods,dataset\Macronni with prawn - kfoods.wav
+50,میکرونی ود پران,,نمک,,حسب ذائقہ,kfoods,dataset\Macronni with prawn - kfoods.wav
+50,میکرونی ود پران,,تیل,2,کھانے کا چمچہ,kfoods,dataset\Macronni with prawn - kfoods.wav
+50,میکرونی ود پران,,چیڈر چیز,2,سلائس,kfoods,dataset\Macronni with prawn - kfoods.wav
+51,چکن ٹپس فرائی,چکن ٹپس فرائی بنانے کے اجزاء,مرغی کے سینے,300,گرام,kfoods,dataset\Chicken Tips Fry - kfoods.wav
+51,چکن ٹپس فرائی,,آلو,4,عدد,kfoods,dataset\Chicken Tips Fry - kfoods.wav
+51,چکن ٹپس فرائی,,انڈے,2,عدد,kfoods,dataset\Chicken Tips Fry - kfoods.wav
+51,چکن ٹپس فرائی,,فرنچ مسٹرڈ پیسٹ,1,چائے کا چمچہ,kfoods,dataset\Chicken Tips Fry - kfoods.wav
+51,چکن ٹپس فرائی,,پسی ہوئی کالی مرچ,½,چائے کا چمچہ,kfoods,dataset\Chicken Tips Fry - kfoods.wav
+51,چکن ٹپس فرائی,,لیموں کا رس,1,کھانے کا چمچہ,kfoods,dataset\Chicken Tips Fry - kfoods.wav
+51,چکن ٹپس فرائی,,کارن فلور,2,کھانے کا چمچہ,kfoods,dataset\Chicken Tips Fry - kfoods.wav
+51,چکن ٹپس فرائی,,اجمودہ,1/4,گٹھی,kfoods,dataset\Chicken Tips Fry - kfoods.wav
+51,چکن ٹپس فرائی,,پسا ہوا لہسن ادرک,1,کھانے کا چمچہ,kfoods,dataset\Chicken Tips Fry - kfoods.wav
+51,چکن ٹپس فرائی,,میدہ,3,کھانے کا چمچہ,kfoods,dataset\Chicken Tips Fry - kfoods.wav
+51,چکن ٹپس فرائی,,چیڈر پنیر,50,گرام,kfoods,dataset\Chicken Tips Fry - kfoods.wav
+51,چکن ٹپس فرائی,,ڈبل روٹی کا چُورہ,1,پیالی,kfoods,dataset\Chicken Tips Fry - kfoods.wav
+51,چکن ٹپس فرائی,,نمک,,حسب ذائقہ,kfoods,dataset\Chicken Tips Fry - kfoods.wav
+51,چکن ٹپس فرائی,,تیل,,تلنے کے لئے,kfoods,dataset\Chicken Tips Fry - kfoods.wav
+51,چکن ٹپس فرائی,,سلاد پتے، ٹماٹر,, سجانے کے لئے,kfoods,dataset\Chicken Tips Fry - kfoods.wav
+52,پانی والے کباب,پانی والے کباب بنانے کے اجزاء,گائے کا قیمہ,½,کلو,kfoods,dataset\Panni walay Kabab - kfoods.wav
+52,پانی والے کباب,,پسا ہوا لہسن ادرک,2,کھانے کا چمچہ,kfoods,dataset\Panni walay Kabab - kfoods.wav
+52,پانی والے کباب,,کٹی ہوئی لال مرچ,1,چائے کا چمچہ,kfoods,dataset\Panni walay Kabab - kfoods.wav
+52,پانی والے کباب,,پسا ہوا گرم مصالحہ,1,چائے کا چمچہ,kfoods,dataset\Panni walay Kabab - kfoods.wav
+52,پانی والے کباب,,کچری پاﺅڈر,2,چائے کا چمچہ,kfoods,dataset\Panni walay Kabab - kfoods.wav
+52,پانی والے کباب,,کٹا ہوا سفید زیرہ,1,چائے کا چمچہ,kfoods,dataset\Panni walay Kabab - kfoods.wav
+52,پانی والے کباب,,انڈہ,1,عدد,kfoods,dataset\Panni walay Kabab - kfoods.wav
+52,پانی والے کباب,,پیاز,2,عدد,kfoods,dataset\Panni walay Kabab - kfoods.wav
+52,پانی والے کباب,,ہری مرچیں,6,عدد,kfoods,dataset\Panni walay Kabab - kfoods.wav
+52,پانی والے کباب,,ہرا دھنیا,1/4,گٹھی,kfoods,dataset\Panni walay Kabab - kfoods.wav
+52,پانی والے کباب,,سوکھی لمبی لال مرچیں,6,عدد,kfoods,dataset\Panni walay Kabab - kfoods.wav
+52,پانی والے کباب,,نمک,,حسب ذائقہ,kfoods,dataset\Panni walay Kabab - kfoods.wav
+52,پانی والے کباب,,تیل,2,کھانے کا چمچہ,kfoods,dataset\Panni walay Kabab - kfoods.wav
+53,ناریل والی مچھلی,ناریل والی مچھلی بنانے کے اجزاء,مچھلی کے ٹکڑے,½,کلو,kfoods,dataset\Narial Wali Machli - kfoods.wav
+53,ناریل والی مچھلی,,انڈہ پھینٹا ہوا,1,عدد,kfoods,dataset\Narial Wali Machli - kfoods.wav
+53,ناریل والی مچھلی,,لہسن چوپ کیا ہوا,4,جوے,kfoods,dataset\Narial Wali Machli - kfoods.wav
+53,ناریل والی مچھلی,,پسا ہو ا ناریل,1,پیالی,kfoods,dataset\Narial Wali Machli - kfoods.wav
+53,ناریل والی مچھلی,,پسی ہوئی دار چینی,½,چائے کا چمچہ,kfoods,dataset\Narial Wali Machli - kfoods.wav
+53,ناریل والی مچھلی,,پسی ہوئی کالی مرچ,1/4,چائے کا چمچہ,kfoods,dataset\Narial Wali Machli - kfoods.wav
+53,ناریل والی مچھلی,,پسی ہوئی سفید مرچ,1/4,چائے کا چمچہ,kfoods,dataset\Narial Wali Machli - kfoods.wav
+53,ناریل والی مچھلی,,میدہ,2,کھانے کا چمچہ,kfoods,dataset\Narial Wali Machli - kfoods.wav
+53,ناریل والی مچھلی,,کارن فلور,2,کھانے کا چمچہ,kfoods,dataset\Narial Wali Machli - kfoods.wav
+53,ناریل والی مچھلی,,نمک ,,حسب ذائقہ,kfoods,dataset\Narial Wali Machli - kfoods.wav
+53,ناریل والی مچھلی,,تیل,,تلنے کے لئے,kfoods,dataset\Narial Wali Machli - kfoods.wav
+53,ناریل والی مچھلی,,ٹماٹر، سلاد پتے,, سجانے کے لئے,kfoods,dataset\Narial Wali Machli - kfoods.wav
+54,ماش کی دال,ماش کی دال بنانے کے اجزاء,ماش کی دال,250,گرام,kfoods,dataset\Maash ki daal - kfoods.wav
+54,ماش کی دال,,ٹماٹر,1,عدد,kfoods,dataset\Maash ki daal - kfoods.wav
+54,ماش کی دال,,پیازباریک کٹی ہوئی,1,عدد,kfoods,dataset\Maash ki daal - kfoods.wav
+54,ماش کی دال,,بھنا اور کٹا ہوا زیرہ,1,چائے کا چمچہ,kfoods,dataset\Maash ki daal - kfoods.wav
+54,ماش کی دال,,ہری مرچیں,5,½,kfoods,dataset\Maash ki daal - kfoods.wav
+54,ماش کی دال,,ادرک,1,درمیانہ ٹکڑا,kfoods,dataset\Maash ki daal - kfoods.wav
+54,ماش کی دال,,ہرادھنیا,1/4,گٹھی,kfoods,dataset\Maash ki daal - kfoods.wav
+54,ماش کی دال,,نمک ,,حسب ذائقہ,kfoods,dataset\Maash ki daal - kfoods.wav
+54,ماش کی دال,,تیل,½,پیالی,kfoods,dataset\Maash ki daal - kfoods.wav
+55,کھبی اور کالی مرچ والا گوشت,کھبی اور کالی مرچ والا گوشت بنانے کے اجزاء,انڈر کٹ,300,گرام,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+55,کھبی اور کالی مرچ والا گوشت,,بٹن کھمبی,6,عدد,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+55,کھبی اور کالی مرچ والا گوشت,,پسا ہوا لہسن ادرک,1,کھانے کا چمچہ,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+55,کھبی اور کالی مرچ والا گوشت,,پیاز,½,½,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+55,کھبی اور کالی مرچ والا گوشت,,ہری پیاز,1,ڈنڈی,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+55,کھبی اور کالی مرچ والا گوشت,,اویسٹر ساس,2,کھانے کا چمچہ,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+55,کھبی اور کالی مرچ والا گوشت,,کُٹی ہوئی کالی مرچ,1,کھانے کا چمچہ,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+55,کھبی اور کالی مرچ والا گوشت,,بھُنا ہو امیدہ,3,کھانے کا چمچہ,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+55,کھبی اور کالی مرچ والا گوشت,,تازہ کریم,1,کھانے کا چمچہ,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+55,کھبی اور کالی مرچ والا گوشت,,پسی ہوئی کالی مرچ,1/4,چائے کا چمچہ,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+55,کھبی اور کالی مرچ والا گوشت,,پانی,2,پیالی,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+55,کھبی اور کالی مرچ والا گوشت,,نمک ,,حسب ذائقہ,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+55,کھبی اور کالی مرچ والا گوشت,,تیل,4,کھانے کا چمچہ,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+55,کھبی اور کالی مرچ والا گوشت,,کھیرا,,سجانے کے لئے,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+55,کھبی اور کالی مرچ والا گوشت,,چاول,,ہمرا ہ پیش کرنے کے لئے,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+56,چلی چلی جھینگے,چلی چلی جھینگے بنانے کے اجزاء,جھینگے,½,کلو,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+56,چلی چلی جھینگے,,ناریل کا دودھ,½,پیالی,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+56,چلی چلی جھینگے,,ادرک,1,درمیانہ ٹکڑا,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+56,چلی چلی جھینگے,,لہسن ,5,جوے,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+56,چلی چلی جھینگے,,پسی ہوئی ہلدی,1,چائے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+56,چلی چلی جھینگے,,کُٹی ہوئی کالی مرچ,1,چائے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+56,چلی چلی جھینگے,,پسی ہوئی لال مرچ,1,چائے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+56,چلی چلی جھینگے,,پسی ہوئی سفید مرچ,½,چائے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+56,چلی چلی جھینگے,,رائی دانے,2,چائے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+56,چلی چلی جھینگے,,چھوٹی الائچیاں,5,عدد,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+56,چلی چلی جھینگے,,ہرا دھنیا,3,کھانے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+56,چلی چلی جھینگے,,نمک ,,حسب ذائقہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+56,چلی چلی جھینگے,,تیل,4,کھانے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+57,مچھلی کے کباب,مچھلی کے کباب بنانے کے اجزاء,مچھلی کے فلے,300,گرام,kfoods,dataset\Machli k Kabab - kfoods.wav
+57,مچھلی کے کباب,,پیاز,1,عدد,kfoods,dataset\Machli k Kabab - kfoods.wav
+57,مچھلی کے کباب,,ہرا دھنیا ,1/4,گڈی,kfoods,dataset\Machli k Kabab - kfoods.wav
+57,مچھلی کے کباب,,ہری مرچیں,5,عدد,kfoods,dataset\Machli k Kabab - kfoods.wav
+57,مچھلی کے کباب,,لہسن ,5,جوے,kfoods,dataset\Machli k Kabab - kfoods.wav
+57,مچھلی کے کباب,,ادرک,1,درمیانہ ٹکڑا,kfoods,dataset\Machli k Kabab - kfoods.wav
+57,مچھلی کے کباب,,انڈے ,2,عدد,kfoods,dataset\Machli k Kabab - kfoods.wav
+57,مچھلی کے کباب,,میدہ ,,حسبِ ضرورت,kfoods,dataset\Machli k Kabab - kfoods.wav
+57,مچھلی کے کباب,,پسی ہوئی لال مرچ,2,کھانے کا چمچہ,kfoods,dataset\Machli k Kabab - kfoods.wav
+57,مچھلی کے کباب,,پسی ہوئی ہلدی,1,کھانے کا چمچہ,kfoods,dataset\Machli k Kabab - kfoods.wav
+57,مچھلی کے کباب,,چاٹ مصالحہ,1,کھانے کا چمچہ,kfoods,dataset\Machli k Kabab - kfoods.wav
+57,مچھلی کے کباب,,نمک,,حسب ذائقہ,kfoods,dataset\Machli k Kabab - kfoods.wav
+57,مچھلی کے کباب,,تیل,,تلنے کے لئے,kfoods,dataset\Machli k Kabab - kfoods.wav
+58,تیکھا بٹیر,تیکھا بٹیربنانے کے اجزاء,بٹیر,,,kfoods,dataset\Teekha Batair - kfoods.wav
+58,تیکھا بٹیر,,دہی,250,گرام,kfoods,dataset\Teekha Batair - kfoods.wav
+58,تیکھا بٹیر,,پسی ہوئی لال مرچ,1,کھانے کا چمچہ,kfoods,dataset\Teekha Batair - kfoods.wav
+58,تیکھا بٹیر,,پسی ہوئی ہری مرچیں,3,کھانے کا چمچہ,kfoods,dataset\Teekha Batair - kfoods.wav
+58,تیکھا بٹیر,,پسا ہوا لہسن ادرک,2,کھانے کا چمچہ,kfoods,dataset\Teekha Batair - kfoods.wav
+58,تیکھا بٹیر,,ہرا دھنیا,1/4,گڈی,kfoods,dataset\Teekha Batair - kfoods.wav
+58,تیکھا بٹیر,,ثابت سفید زیرہ,1,کھانے کا چمچہ,kfoods,dataset\Teekha Batair - kfoods.wav
+58,تیکھا بٹیر,,پسی ہوئی ہلدی,1,چائے کا چمچہ,kfoods,dataset\Teekha Batair - kfoods.wav
+58,تیکھا بٹیر,,چاٹ مصالحہ,1,کھانے کا چمچہ,kfoods,dataset\Teekha Batair - kfoods.wav
+58,تیکھا بٹیر,,پانی,1,پیالی,kfoods,dataset\Teekha Batair - kfoods.wav
+58,تیکھا بٹیر,,نمک ,,حسبِ ذائقہ,kfoods,dataset\Teekha Batair - kfoods.wav
+58,تیکھا بٹیر,,تیل,4,کھانے کا چمچہ,kfoods,dataset\Teekha Batair - kfoods.wav
+59,امریکن پائی,امریکن پائی بنانے کے اجزاء,انڈر کٹ,200,گرام,kfoods,dataset\American Pie - kfoods.wav
+59,امریکن پائی,,پف پیسٹری کا آٹا,½,کلو,kfoods,dataset\American Pie - kfoods.wav
+59,امریکن پائی,,پیاز,1,عدد,kfoods,dataset\American Pie - kfoods.wav
+59,امریکن پائی,,کُٹی ہوئی کالی مرچ,3,کھانے کا چمچہ,kfoods,dataset\American Pie - kfoods.wav
+59,امریکن پائی,,وار چسٹر شائر ساس ,1,کھانے کا چمچہ,kfoods,dataset\American Pie - kfoods.wav
+59,امریکن پائی,,مسٹرڈ پیسٹ,1,چائے کا چمچہ,kfoods,dataset\American Pie - kfoods.wav
+59,امریکن پائی,,مسٹرڈ پیسٹ,1,کھانے کا چمچہ,kfoods,dataset\American Pie - kfoods.wav
+59,امریکن پائی,,انڈہ,1,عدد,kfoods,dataset\American Pie - kfoods.wav
+59,امریکن پائی,,نمک ,,حسب ذائقہ,kfoods,dataset\American Pie - kfoods.wav
+59,امریکن پائی,,تیل,3,کھانے کا چمچہ,kfoods,dataset\American Pie - kfoods.wav
+60,کرسپی ہاٹ ونگز,کرسپی ہاٹ ونگزبنانے کے اجزاء,چکن ونگزکھال والے,½,کلو,kfoods,dataset\Crispy Hot Wings - kfoods.wav
+60,کرسپی ہاٹ ونگز,,ایچ پی سوس,3,کھانے کا چمچہ,kfoods,dataset\Crispy Hot Wings - kfoods.wav
+60,کرسپی ہاٹ ونگز,,اویسٹر سوس,2,کھانے کا چمچہ,kfoods,dataset\Crispy Hot Wings - kfoods.wav
+60,کرسپی ہاٹ ونگز,,ٹومیٹو کیچپ,3,کھانے کا چمچہ,kfoods,dataset\Crispy Hot Wings - kfoods.wav
+60,کرسپی ہاٹ ونگز,,لیموں کا رس,2,کھانے کا چمچہ,kfoods,dataset\Crispy Hot Wings - kfoods.wav
+60,کرسپی ہاٹ ونگز,,پسی کالی مرچ,½,چائے کا چمچہ,kfoods,dataset\Crispy Hot Wings - kfoods.wav
+60,کرسپی ہاٹ ونگز,,کٹی لال مرچ,1,کھانے کا چمچہ,kfoods,dataset\Crispy Hot Wings - kfoods.wav
+60,کرسپی ہاٹ ونگز,,ہلدی,1/4,چائے کا چمچہ,kfoods,dataset\Crispy Hot Wings - kfoods.wav
+60,کرسپی ہاٹ ونگز,,نمک,,حسب ذائقہ,kfoods,dataset\Crispy Hot Wings - kfoods.wav
+60,کرسپی ہاٹ ونگز,,لہسن کا پیسٹ,1,چائے کا چمچہ,kfoods,dataset\Crispy Hot Wings - kfoods.wav
+60,کرسپی ہاٹ ونگز,,تیل,,تلنے کے لئے,kfoods,dataset\Crispy Hot Wings - kfoods.wav
+61,باربی کیو فوائل چانپیں,باربی کیو فوائل چانپیں بنانے کے اجزاء,بکرے کی چانپیں,½,کلو,kfoods,dataset\BBQ Foil Chanpein - kfoods.wav
+61,باربی کیو فوائل چانپیں,,ہرا دھنیا,1/4,گڈی,kfoods,dataset\BBQ Foil Chanpein - kfoods.wav
+61,باربی کیو فوائل چانپیں,,پسی ہوئی ہلدی,1,چائے کا چمچہ,kfoods,dataset\BBQ Foil Chanpein - kfoods.wav
+61,باربی کیو فوائل چانپیں,,پسی ہوئی لال مرچ,1,کھانے کا چمچہ,kfoods,dataset\BBQ Foil Chanpein - kfoods.wav
+61,باربی کیو فوائل چانپیں,,پسا ہوا لہسن، ادرک,2,کھانے کا چمچہ,kfoods,dataset\BBQ Foil Chanpein - kfoods.wav
+61,باربی کیو فوائل چانپیں,,پسا ہوا کچا پپیتا,3,کھانے کا چمچہ,kfoods,dataset\BBQ Foil Chanpein - kfoods.wav
+61,باربی کیو فوائل چانپیں,,نمک,,حسب ذائقہ,kfoods,dataset\BBQ Foil Chanpein - kfoods.wav
+61,باربی کیو فوائل چانپیں,,تیل,3,کھانے کا چمچہ,kfoods,dataset\BBQ Foil Chanpein - kfoods.wav
+62,تلے ہوئے وان ٹونز,تلے ہوئے وان ٹونز بنانے کے اجزاء,مرغی کا قیمہ,125,گرام,kfoods,dataset\Taly Hoy Wong Tonz - kfoods.wav
+62,تلے ہوئے وان ٹونز,,سموسے کی پٹیاں,4,عدد,kfoods,dataset\Taly Hoy Wong Tonz - kfoods.wav
+62,تلے ہوئے وان ٹونز,,انڈہ,1,عدد,kfoods,dataset\Taly Hoy Wong Tonz - kfoods.wav
+62,تلے ہوئے وان ٹونز,,میدہ,1,کھانے کا چمچہ,kfoods,dataset\Taly Hoy Wong Tonz - kfoods.wav
+62,تلے ہوئے وان ٹونز,,کٹی ہوئی لال مرچ,½,چائے کا چمچہ,kfoods,dataset\Taly Hoy Wong Tonz - kfoods.wav
+62,تلے ہوئے وان ٹونز,,چاٹ مصالہ,½,چائے کا چمچہ,kfoods,dataset\Taly Hoy Wong Tonz - kfoods.wav
+62,تلے ہوئے وان ٹونز,,پسی ہوئی کالی مرچ,1/4,چائے کا چمچہ,kfoods,dataset\Taly Hoy Wong Tonz - kfoods.wav
+62,تلے ہوئے وان ٹونز,,نمک,,حسب ذائقہ,kfoods,dataset\Taly Hoy Wong Tonz - kfoods.wav
+62,تلے ہوئے وان ٹونز,,تیل,,تلنے کےلئے,kfoods,dataset\Taly Hoy Wong Tonz - kfoods.wav
+63,بیسنی جھینگے,بیسنی جھینگے بنانے کے اجزاء,جھینگے,300,گرام,kfoods,dataset\Baisni Jheengay.wav
+63,بیسنی جھینگے,,بیسن,½,پیالی,kfoods,dataset\Baisni Jheengay.wav
+63,بیسنی جھینگے,,ہرا دھنیا,2,کھانے کا چمچہ,kfoods,dataset\Baisni Jheengay.wav
+63,بیسنی جھینگے,,پودینہ,2,کھانے کا چمچہ,kfoods,dataset\Baisni Jheengay.wav
+63,بیسنی جھینگے,,کٹی ہوئی لال مرچ,½,چائے کا چمچہ,kfoods,dataset\Baisni Jheengay.wav
+63,بیسنی جھینگے,,پسی ہوئی کھٹائی,½,چائے کا چمچہ,kfoods,dataset\Baisni Jheengay.wav
+63,بیسنی جھینگے,,ادرک,1,درمیانہ ٹکڑا,kfoods,dataset\Baisni Jheengay.wav
+63,بیسنی جھینگے,,ہری مرچیں,2,عدد,kfoods,dataset\Baisni Jheengay.wav
+63,بیسنی جھینگے,,نمک,,حسب ذائقہ,kfoods,dataset\Baisni Jheengay.wav
+63,بیسنی جھینگے,,تیل,,تلنے کےلئے,kfoods,dataset\Baisni Jheengay.wav
+63,بیسنی جھینگے,,ٹماٹر,,سجانے کےلے,kfoods,dataset\Baisni Jheengay.wav
+64,گجریلا,گجریلا بنانے کے اجزاء,گاجر,½,کلو,hum masala,dataset\Gajrella.wav
+64,گجریلا,,تازہ دودھ,1,لیٹر,hum masala,dataset\Gajrella.wav
+64,گجریلا,,چھوٹی الائچی,6,عدد,hum masala,dataset\Gajrella.wav
+64,گجریلا,,چینی,2,پیالی,hum masala,dataset\Gajrella.wav
+64,گجریلا,,چھلے اور باریک کئے اخروٹ,½,پیالی,hum masala,dataset\Gajrella.wav
+64,گجریلا,,چھلے اور باریک کٹے بادام ، پستے,,حسب ضرورت,hum masala,dataset\Gajrella.wav
+64,گجریلا,,کھویا,½,پاؤ,hum masala,dataset\Gajrella.wav
+65,فرائیڈ چوپس,فرائیڈ چوپس بنانے کے اجزاء,بکرے کی چانپیں,6-8,عدد,hum masala,dataset\fried chops.wav
+65,فرائیڈ چوپس,, کارن فلور,1,پیالی,hum masala,dataset\fried chops.wav
+65,فرائیڈ چوپس,,انڈے,2,عدد,hum masala,dataset\fried chops.wav
+65,فرائیڈ چوپس,,مسٹرڈ پاؤڈر,1,چائے کا چمچہ,hum masala,dataset\fried chops.wav
+65,فرائیڈ چوپس,,چینی,1,چائے کا چمچہ,hum masala,dataset\fried chops.wav
+65,فرائیڈ چوپس,,چکن کیوب والا میده,1, کھانے کا چمچہ,hum masala,dataset\fried chops.wav
+65,فرائیڈ چوپس,,سفید سرکه,2, کھانے کا چمچہ,hum masala,dataset\fried chops.wav
+65,فرائیڈ چوپس,,سویاسوس,2, کھانے کا چمچہ,hum masala,dataset\fried chops.wav
+65,فرائیڈ چوپس,,ادرک لہسن کا پیسٹ,½, کھانے کا چمچہ,hum masala,dataset\fried chops.wav
+65,فرائیڈ چوپس,,تیل,,تلنے کے لیے,hum masala,dataset\fried chops.wav
+65,فرائیڈ چوپس,,بریڈ کرمبز,,حسب ضرورت,hum masala,dataset\fried chops.wav
+65,فرائیڈ چوپس,,نمک,,حسب ذائقہ,hum masala,dataset\fried chops.wav
+66,کھجور کا حلوہ,کھجور کا حلوہ بنانے کے اجزاء,تازہ کھجور,½,کلو,hum masala,dataset\khajoor ka halwa.wav
+66,کھجور کا حلوہ,,بسکٹ,1,پیکٹ,hum masala,dataset\khajoor ka halwa.wav
+66,کھجور کا حلوہ,,فریش کریم,1,پیکٹ,hum masala,dataset\khajoor ka halwa.wav
+66,کھجور کا حلوہ,,پسا کھوپرا,1,پیکٹ,hum masala,dataset\khajoor ka halwa.wav
+66,کھجور کا حلوہ,,باریک کٹے اخروٹ,½,پیالی,hum masala,dataset\khajoor ka halwa.wav
+66,کھجور کا حلوہ,,مکھن,1, کھانے کا چمچہ,hum masala,dataset\khajoor ka halwa.wav
+66,کھجور کا حلوہ,,چینی,,حسب ضرورت,hum masala,dataset\khajoor ka halwa.wav
+67,گرین چلی چکن ,گرین چلی چکن بنانے کے اجزاء,چکن,14-16,ٹکرے,hum masala,dataset\green chilli chicken.wav
+67,گرین چلی چکن ,,ہری مرچ,10-15,عدد,hum masala,dataset\green chilli chicken.wav
+67,گرین چلی چکن ,,ہرا دھنیا,1,گٹھی,hum masala,dataset\green chilli chicken.wav
+67,گرین چلی چکن ,,لہسن کے بغیر چھلے,6,جوے,hum masala,dataset\green chilli chicken.wav
+67,گرین چلی چکن ,,ادرک لہسن کا پیسٹ,1, کھانے کا چمچہ,hum masala,dataset\green chilli chicken.wav
+67,گرین چلی چکن ,,کٹی پیاز,3,عدد,hum masala,dataset\green chilli chicken.wav
+67,گرین چلی چکن ,,دہی,½,کپ,hum masala,dataset\green chilli chicken.wav
+67,گرین چلی چکن ,,کٹی کالی مرچ,½, کھانے کا چمچہ,hum masala,dataset\green chilli chicken.wav
+67,گرین چلی چکن ,,لیموں ,2,عدد,hum masala,dataset\green chilli chicken.wav
+67,گرین چلی چکن ,,بھنا اور پسا زیره,1, کھانے کا چمچہ,hum masala,dataset\green chilli chicken.wav
+67,گرین چلی چکن ,,مکھن,1, کھانے کا چمچہ,hum masala,dataset\green chilli chicken.wav
+67,گرین چلی چکن ,,نمک,,حسب ذائقہ,hum masala,dataset\green chilli chicken.wav
+67,گرین چلی چکن ,,تیل,,حسب ضرورت,hum masala,dataset\green chilli chicken.wav
+68,لبنانی کباب,لبنانی کباب بنانے کے اجزاء,گائے یا بکری کا قیمہ,1,کلو,hum masala,dataset\Labnani kabab.wav
+68,لبنانی کباب,,ابلی میکرونی,1,پیالی,hum masala,dataset\Labnani kabab.wav
+68,لبنانی کباب,,چھلے اور اُبلے مٹر,1,پیالی,hum masala,dataset\Labnani kabab.wav
+68,لبنانی کباب,,ڈبل روٹی کا چورا,1,پیکٹ,hum masala,dataset\Labnani kabab.wav
+68,لبنانی کباب,,انڈے,2,عدد,hum masala,dataset\Labnani kabab.wav
+68,لبنانی کباب,,درمیانی پیاز,3,عدد,hum masala,dataset\Labnani kabab.wav
+68,لبنانی کباب,,ابلے آلو,3,عدد,hum masala,dataset\Labnani kabab.wav
+68,لبنانی کباب,,ٹماٹر,3,عدد,hum masala,dataset\Labnani kabab.wav
+68,لبنانی کباب,,ہری مرچ,6-8,عدد,hum masala,dataset\Labnani kabab.wav
+68,لبنانی کباب,,ادرک لہسن کا پیسٹ,1,چائے کا چمچہ,hum masala,dataset\Labnani kabab.wav
+68,لبنانی کباب,,کٹی کالی مرچ,1,چائے کا چمچہ,hum masala,dataset\Labnani kabab.wav
+68,لبنانی کباب,,تیل,,حسب ضرورت,hum masala,dataset\Labnani kabab.wav
+68,لبنانی کباب,,نمک,,حسب ذائقہ,hum masala,dataset\Labnani kabab.wav
+69,مغز کی کڑاہی,مغز کی کڑاہی بنانے کے اجزاء,گائے کا مغز,1,عدد,hum masala,dataset\maghaz ki karahi.wav
+69,مغز کی کڑاہی,,لہسن کے بغیر چھلے جوے,3,عدد,hum masala,dataset\maghaz ki karahi.wav
+69,مغز کی کڑاہی,,کچی پسی پیاز,2,عدد,hum masala,dataset\maghaz ki karahi.wav
+69,مغز کی کڑاہی,,باریک کٹے ٹماٹر,3,عدد,hum masala,dataset\maghaz ki karahi.wav
+69,مغز کی کڑاہی,,دہی,½,پیالی,hum masala,dataset\maghaz ki karahi.wav
+69,مغز کی کڑاہی,,پسا گرم مصالحہ,1,چائے کا چمچہ,hum masala,dataset\maghaz ki karahi.wav
+69,مغز کی کڑاہی,,ہلدی,1,چائے کا چمچہ,hum masala,dataset\maghaz ki karahi.wav
+69,مغز کی کڑاہی,,پسی لال مرچ,1, کھانے کا چمچہ,hum masala,dataset\maghaz ki karahi.wav
+69,مغز کی کڑاہی,,ثابت دھنیا,1,چائے کا چمچہ,hum masala,dataset\maghaz ki karahi.wav
+69,مغز کی کڑاہی,,ثابت کالی مرچ,6,عدد,hum masala,dataset\maghaz ki karahi.wav
+69,مغز کی کڑاہی,,سفید زیرہ,½,چائے کا چمچہ,hum masala,dataset\maghaz ki karahi.wav
+69,مغز کی کڑاہی,,نمک,,حسب ذائقہ,hum masala,dataset\maghaz ki karahi.wav
+69,مغز کی کڑاہی,,باریک کٹی ادرک,2, کھانے کا چمچہ,hum masala,dataset\maghaz ki karahi.wav
+69,مغز کی کڑاہی,,لمبی باریک کٹی ہری مرچ,4,عدد,hum masala,dataset\maghaz ki karahi.wav
+69,مغز کی کڑاہی,,باریک کٹا ہرا دھنیا,1,گٹھی,hum masala,dataset\maghaz ki karahi.wav
+69,مغز کی کڑاہی,,لیموں,2,عدد,hum masala,dataset\maghaz ki karahi.wav
+69,مغز کی کڑاہی,,تیل,1,پیالی,hum masala,dataset\maghaz ki karahi.wav
+70,ڈیپ فرائیڈ چکن کٹلٹس,ڈیپ فرائیڈ چکن کٹلٹس بنانے کے اجزاء,چکن کا قیمہ,½,کلو,hum masala,dataset\deep fried chicken cutlets.wav
+70,ڈیپ فرائیڈ چکن کٹلٹس,,دلیا,1,پیالی,hum masala,dataset\deep fried chicken cutlets.wav
+70,ڈیپ فرائیڈ چکن کٹلٹس,,انڈے,2,عدد,hum masala,dataset\deep fried chicken cutlets.wav
+70,ڈیپ فرائیڈ چکن کٹلٹس,,پسی کچی پیاز,2,عدد,hum masala,dataset\deep fried chicken cutlets.wav
+70,ڈیپ فرائیڈ چکن کٹلٹس,,بیسن,1,چٹکی,hum masala,dataset\deep fried chicken cutlets.wav
+70,ڈیپ فرائیڈ چکن کٹلٹس,,پسا گرم مصالحہ,1,چائے کا چمچہ,hum masala,dataset\deep fried chicken cutlets.wav
+70,ڈیپ فرائیڈ چکن کٹلٹس,,باریک کٹی ادرک,1, کھانے کا چمچہ,hum masala,dataset\deep fried chicken cutlets.wav
+70,ڈیپ فرائیڈ چکن کٹلٹس,,پسا لہسن,1, کھانے کا چمچہ,hum masala,dataset\deep fried chicken cutlets.wav
+70,ڈیپ فرائیڈ چکن کٹلٹس,,پسی ہری مرچ,1, کھانے کا چمچہ,hum masala,dataset\deep fried chicken cutlets.wav
+70,ڈیپ فرائیڈ چکن کٹلٹس,,کٹی کالی مرچ,½, کھانے کا چمچہ,hum masala,dataset\deep fried chicken cutlets.wav
+70,ڈیپ فرائیڈ چکن کٹلٹس,,جو,2, کھانے کا چمچہ,hum masala,dataset\deep fried chicken cutlets.wav
+70,ڈیپ فرائیڈ چکن کٹلٹس,,لیموں کا رس,2, کھانے کا چمچہ,hum masala,dataset\deep fried chicken cutlets.wav
+70,ڈیپ فرائیڈ چکن کٹلٹس,, بھنے ہوئے تل,2, کھانے کا چمچہ,hum masala,dataset\deep fried chicken cutlets.wav
+70,ڈیپ فرائیڈ چکن کٹلٹس,,تیل,,حسب ضرورت,hum masala,dataset\deep fried chicken cutlets.wav
+70,ڈیپ فرائیڈ چکن کٹلٹس,,نمک,,حسب ذائقہ,hum masala,dataset\deep fried chicken cutlets.wav
+71,چکن مشروم لال مرچ کے ساتھ,چکن مشروم لال مرچ کے ساتھ بنانے کے اجزاء,بون لیس چکن بوٹی,½,کلو,hum masala,dataset\Chicken mushroom laal mirch k sath.wav
+71,چکن مشروم لال مرچ کے ساتھ,,مشروم سلائس,1,ٹن,hum masala,dataset\Chicken mushroom laal mirch k sath.wav
+71,چکن مشروم لال مرچ کے ساتھ,,تاز ہ لال مرچ,8-10,عدد,hum masala,dataset\Chicken mushroom laal mirch k sath.wav
+71,چکن مشروم لال مرچ کے ساتھ,,سویا سوس,2, کھانے کا چمچہ,hum masala,dataset\Chicken mushroom laal mirch k sath.wav
+71,چکن مشروم لال مرچ کے ساتھ,,ادرک لہسن,1,چائے کا چمچہ,hum masala,dataset\Chicken mushroom laal mirch k sath.wav
+71,چکن مشروم لال مرچ کے ساتھ,,سفید سرکہ,2, کھانے کا چمچہ,hum masala,dataset\Chicken mushroom laal mirch k sath.wav
+71,چکن مشروم لال مرچ کے ساتھ,,کارن فلور,2, کھانے کا چمچہ,hum masala,dataset\Chicken mushroom laal mirch k sath.wav
+71,چکن مشروم لال مرچ کے ساتھ,,نمک ,,حسب ذائقہ,hum masala,dataset\Chicken mushroom laal mirch k sath.wav
+71,چکن مشروم لال مرچ کے ساتھ,,کٹی کالی مرچ,1,چائے کا چمچہ,hum masala,dataset\Chicken mushroom laal mirch k sath.wav
+71,چکن مشروم لال مرچ کے ساتھ,,چینی,1,چائے کا چمچہ,hum masala,dataset\Chicken mushroom laal mirch k sath.wav
+71,چکن مشروم لال مرچ کے ساتھ,,چکن کیوب و الا میده,1, کھانے کا چمچہ,hum masala,dataset\Chicken mushroom laal mirch k sath.wav
+71,چکن مشروم لال مرچ کے ساتھ,,چکن یخنی,2,پیالی,hum masala,dataset\Chicken mushroom laal mirch k sath.wav
+71,چکن مشروم لال مرچ کے ساتھ,,تل کا تیل,1,چائے کا چمچہ,hum masala,dataset\Chicken mushroom laal mirch k sath.wav
+71,چکن مشروم لال مرچ کے ساتھ,,تیل,,حسب ضرورت,hum masala,dataset\Chicken mushroom laal mirch k sath.wav
+71,چکن مشروم لال مرچ کے ساتھ,یخنی کے لیے,چکن کی ہڈیاں,,تھوڑی سی,hum masala,dataset\Chicken mushroom laal mirch k sath.wav
+71,چکن مشروم لال مرچ کے ساتھ,,پانی ,3,پیالی,hum masala,dataset\Chicken mushroom laal mirch k sath.wav
+71,چکن مشروم لال مرچ کے ساتھ,,لہسن کے جوے,4,عدد,hum masala,dataset\Chicken mushroom laal mirch k sath.wav
+71,چکن مشروم لال مرچ کے ساتھ,,ادرک,1,ٹکڑا,hum masala,dataset\Chicken mushroom laal mirch k sath.wav
+71,چکن مشروم لال مرچ کے ساتھ,,ثابت کالی مرچ,4,عدد,hum masala,dataset\Chicken mushroom laal mirch k sath.wav
+72,چنا مٹن ,چنا مٹن بنانے کے اجزاء,کابلی چنے ,1,پیالی,hum masala,dataset\channa mutton.wav
+72,چنا مٹن ,,بکرے کا گوشت,½,کلو,hum masala,dataset\channa mutton.wav
+72,چنا مٹن ,,ادرک لہسن کا پیسٹ,1,کھانے کا چمچہ,hum masala,dataset\channa mutton.wav
+72,چنا مٹن ,,مسور کی دال,½,پیالی,hum masala,dataset\channa mutton.wav
+72,چنا مٹن ,,کچی پسی پیاز,2,عدد,hum masala,dataset\channa mutton.wav
+72,چنا مٹن ,,ٹماٹر ,2,عدد,hum masala,dataset\channa mutton.wav
+72,چنا مٹن ,,پسا گرم مصالحہ,1,چائے کا چمچہ,hum masala,dataset\channa mutton.wav
+72,چنا مٹن ,,پسی لال مرچ,1,کھانے کا چمچہ,hum masala,dataset\channa mutton.wav
+72,چنا مٹن ,,بلدی,1,چائے کا چمچہ,hum masala,dataset\channa mutton.wav
+72,چنا مٹن ,,املی کا گاڑھا رس,½,پیالی,hum masala,dataset\channa mutton.wav
+72,چنا مٹن ,,بھنا اور پسا سفید زیرہ,½,کھانے کا چمچہ,hum masala,dataset\channa mutton.wav
+72,چنا مٹن ,,باریک کٹا پودینہ,1,گٹھی,hum masala,dataset\channa mutton.wav
+72,چنا مٹن ,,لیموں ,2,عدد,hum masala,dataset\channa mutton.wav
+72,چنا مٹن ,,لمبی باریک کٹی ہری مرچ,4,عدد,hum masala,dataset\channa mutton.wav
+72,چنا مٹن ,,پسی سونٹھ,1,کھانے کا چمچہ,hum masala,dataset\channa mutton.wav
+72,چنا مٹن ,,نمک ,,حسب ذائقہ,hum masala,dataset\channa mutton.wav
+72,چنا مٹن ,,تیل,1,پیالی,hum masala,dataset\channa mutton.wav
+73,آلو مکھنی,آلو مکھنی بنانے کے اجزاء,آلو,½,کلو,hum masala,dataset\aloo makhni.wav
+73,آلو مکھنی,,میتھی ساگ,6,گٹھی,hum masala,dataset\aloo makhni.wav
+73,آلو مکھنی,,باریک کٹا سویا,2,گٹھی,hum masala,dataset\aloo makhni.wav
+73,آلو مکھنی,,مکھن,1,چھوٹا پیکٹ  ,hum masala,dataset\aloo makhni.wav
+73,آلو مکھنی,,فریش کریم,2,کھانے کا چمچہ,hum masala,dataset\aloo makhni.wav
+73,آلو مکھنی,,تازہ لال مرچ,8,عدد,hum masala,dataset\aloo makhni.wav
+73,آلو مکھنی,,لمبی باریک کٹی ہری مرچ,4,عدد,hum masala,dataset\aloo makhni.wav
+73,آلو مکھنی,,نمک ,,حسب ذائقہ,hum masala,dataset\aloo makhni.wav
+73,آلو مکھنی,,بلدی,½,چائے کا چمچہ,hum masala,dataset\aloo makhni.wav
+73,آلو مکھنی,,لہسن کے چھلے جوے,4,عدد,hum masala,dataset\aloo makhni.wav
+73,آلو مکھنی,,تیل,½,پیالی,hum masala,dataset\aloo makhni.wav
+74,دم کا قیمہ,دم کا قیمہ بنانے کے اجزاء,بون لیس چکن,½,کلو,hum masala,dataset\dum qeema.wav
+74,دم کا قیمہ,,پیاز,4,عدد,hum masala,dataset\dum qeema.wav
+74,دم کا قیمہ,,ادرک لہسن,2,کھانے کا چمچہ,hum masala,dataset\dum qeema.wav
+74,دم کا قیمہ,,ثابت لال مرچ,,حسب ذائقہ,hum masala,dataset\dum qeema.wav
+74,دم کا قیمہ,,نمک,½,چائے کا چمچہ,hum masala,dataset\dum qeema.wav
+74,دم کا قیمہ,,ہلدی,½,چائے کا چمچہ,hum masala,dataset\dum qeema.wav
+74,دم کا قیمہ,,ثابت دھنیا,½ - 1,کھانے کا چمچہ,hum masala,dataset\dum qeema.wav
+74,دم کا قیمہ,,ہری الائچی,4,عدد,hum masala,dataset\dum qeema.wav
+74,دم کا قیمہ,,دار چینی,1,ٹکڑا,hum masala,dataset\dum qeema.wav
+74,دم کا قیمہ,,بڑی الائچی,2,عدد,hum masala,dataset\dum qeema.wav
+74,دم کا قیمہ,,تیز پات,1,عدد,hum masala,dataset\dum qeema.wav
+74,دم کا قیمہ,,سفید زیرہ,½ - 1,چائے کا چمچہ,hum masala,dataset\dum qeema.wav
+74,دم کا قیمہ,,کالا زیرہ,½,چائے کا چمچہ,hum masala,dataset\dum qeema.wav
+74,دم کا قیمہ,,کالی مرچ,½,چائے کا چمچہ,hum masala,dataset\dum qeema.wav
+74,دم کا قیمہ,,لونگ,6,عدد,hum masala,dataset\dum qeema.wav
+74,دم کا قیمہ,,کچا پپیتا,1,کھانے کا چمچہ,hum masala,dataset\dum qeema.wav
+75,بینگن اور آلو کی کڑھی,بینگن اور آلو کی کڑھی بنانے کے اجزاء,آلو ,2-3,عدد,hum masala,dataset\Baingan air aalu ki karhi.wav
+75,بینگن اور آلو کی کڑھی,,بیگن ,2-3,عدد,hum masala,dataset\Baingan air aalu ki karhi.wav
+75,بینگن اور آلو کی کڑھی,,دہی,¼,کلو,hum masala,dataset\Baingan air aalu ki karhi.wav
+75,بینگن اور آلو کی کڑھی,,نمک ,,حسب ضرورت,hum masala,dataset\Baingan air aalu ki karhi.wav
+75,بینگن اور آلو کی کڑھی,,ہری مرچ,3-4,عدد,hum masala,dataset\Baingan air aalu ki karhi.wav
+75,بینگن اور آلو کی کڑھی,,بیسن,1,چائے کا چمچہ,hum masala,dataset\Baingan air aalu ki karhi.wav
+75,بینگن اور آلو کی کڑھی,,پسا کوکونٹ  ,1,کھانے کا چمچہ,hum masala,dataset\Baingan air aalu ki karhi.wav
+75,بینگن اور آلو کی کڑھی,,پیاز,1,عدد,hum masala,dataset\Baingan air aalu ki karhi.wav
+75,بینگن اور آلو کی کڑھی,,لال مرچ,1,چائے کا چمچہ,hum masala,dataset\Baingan air aalu ki karhi.wav
+75,بینگن اور آلو کی کڑھی,,ہلدی ,½,چائے کا چمچہ,hum masala,dataset\Baingan air aalu ki karhi.wav
+75,بینگن اور آلو کی کڑھی,,تیل ,,حسب ضرورت,hum masala,dataset\Baingan air aalu ki karhi.wav
+75,بینگن اور آلو کی کڑھی,,ہرا دھنیا,½,گٹھی,hum masala,dataset\Baingan air aalu ki karhi.wav
+75,بینگن اور آلو کی کڑھی,,لہسن,2-3,جوے,hum masala,dataset\Baingan air aalu ki karhi.wav
+75,بینگن اور آلو کی کڑھی,بگھار کے اجزاء:,ہری مرچ ,2-3,عدد,hum masala,dataset\Baingan air aalu ki karhi.wav
+75,بینگن اور آلو کی کڑھی,,کری پتے,,حسب ضرورت,hum masala,dataset\Baingan air aalu ki karhi.wav
+75,بینگن اور آلو کی کڑھی,,زیره,½,چائے کا چمچہ,hum masala,dataset\Baingan air aalu ki karhi.wav
+75,بینگن اور آلو کی کڑھی,,گھی,1,کھانے کا چمچہ,hum masala,dataset\Baingan air aalu ki karhi.wav
+76,فش بریانی,فش بریانی بنانے کے اجزاء,فش ,1,کلو,hum masala,dataset\Fish biryani.wav
+76,فش بریانی,,چاول ,1,کلو,hum masala,dataset\Fish biryani.wav
+76,فش بریانی,,لیموں ,2,عدد,hum masala,dataset\Fish biryani.wav
+76,فش بریانی,,املی,1,پیکٹ,hum masala,dataset\Fish biryani.wav
+76,فش بریانی,,ٹماٹر ,½,کلو,hum masala,dataset\Fish biryani.wav
+76,فش بریانی,,پیاز ,4,عدد,hum masala,dataset\Fish biryani.wav
+76,فش بریانی,,ہری مرچ,¼,کپ,hum masala,dataset\Fish biryani.wav
+76,فش بریانی,,کڑی پتے,20-25,عدد,hum masala,dataset\Fish biryani.wav
+76,فش بریانی,,گرم مصالحہ,,حسب ضرورت,hum masala,dataset\Fish biryani.wav
+76,فش بریانی,,نمک ,,حسب ذائقہ,hum masala,dataset\Fish biryani.wav
+76,فش بریانی,,لال مرچ,,حسب ذائقہ,hum masala,dataset\Fish biryani.wav
+76,فش بریانی,,زردے کا رنگ,1,چٹکی,hum masala,dataset\Fish biryani.wav
+76,فش بریانی,,تیل ,,حسب ضرورت,hum masala,dataset\Fish biryani.wav
+76,فش بریانی,,فش مصالحہ ,2,کھانے کا چمچہ,hum masala,dataset\Fish biryani.wav
+76,فش بریانی,,دھنیا پاؤڈر,1,کپ,hum masala,dataset\Fish biryani.wav
+76,فش بریانی,,ہلدی ,½,چائے کا چمچہ,hum masala,dataset\Fish biryani.wav
+77,بٹر قیمہ,بٹر قیمہ بنانے کے اجزاء,گائے کا قیمہ,1,کلو,hum masala,dataset\Butter qeem.wav
+77,بٹر قیمہ,,نمک ,½,چائے کا چمچہ,hum masala,dataset\Butter qeem.wav
+77,بٹر قیمہ,,کٹی لال مرچ,1,کھانے کا چمچہ,hum masala,dataset\Butter qeem.wav
+77,بٹر قیمہ,,کٹی کالی مرچ,½,چائے کا چمچہ,hum masala,dataset\Butter qeem.wav
+77,بٹر قیمہ,,ادرک لہسن کا پیسٹ,2,کھانے کا چمچہ,hum masala,dataset\Butter qeem.wav
+77,بٹر قیمہ,,تیل ,½,کپ,hum masala,dataset\Butter qeem.wav
+77,بٹر قیمہ,,مکھن,4,کھانے کا چمچہ,hum masala,dataset\Butter qeem.wav
+77,بٹر قیمہ,,قصوری میتھی ,1,کھانے کا چمچہ,hum masala,dataset\Butter qeem.wav
+77,بٹر قیمہ,,درمیانی پیاز,1,عدد,hum masala,dataset\Butter qeem.wav
+77,بٹر قیمہ,,دہی,1,کپ,hum masala,dataset\Butter qeem.wav
+78,نان ختائی,نان ختائی بنانے کے اجزاء,گھی,250,گرام,hum masala,dataset\Naan khatai.wav
+78,نان ختائی,,کاسٹر شوگر,200,گرام,hum masala,dataset\Naan khatai.wav
+78,نان ختائی,,میدہ,3,کپ,hum masala,dataset\Naan khatai.wav
+78,نان ختائی,,سوجی,1,کپ,hum masala,dataset\Naan khatai.wav
+78,نان ختائی,,الائچی پاؤڈر,½,چائے کا چمچہ,hum masala,dataset\Naan khatai.wav
+78,نان ختائی,,بینگنگ پاؤڈر,½,چائے کا چمچہ,hum masala,dataset\Naan khatai.wav
+78,نان ختائی,,بادام پستے,,حسب ضرورت,hum masala,dataset\Naan khatai.wav
+79,چکن ریشمی کباب,چکن ریشمی کباب بنانے کے اجزاء,چکن کا قیمہ (باریک پسا),½,کلو ,hum masala,dataset\chicken reshmi kabab.wav
+79,چکن ریشمی کباب,,پودینہ ,1,گٹھی,hum masala,dataset\chicken reshmi kabab.wav
+79,چکن ریشمی کباب,,ہری مرچ,6,عدد,hum masala,dataset\chicken reshmi kabab.wav
+79,چکن ریشمی کباب,,چھوٹی الائچی,6,عدد,hum masala,dataset\chicken reshmi kabab.wav
+79,چکن ریشمی کباب,,نمک ,,حسب ذائقہ,hum masala,dataset\chicken reshmi kabab.wav
+79,چکن ریشمی کباب,,کباب مصالحہ,1,کھانے کا چمچہ,hum masala,dataset\chicken reshmi kabab.wav
+79,چکن ریشمی کباب,,فریش کریم,½,پیالی,hum masala,dataset\chicken reshmi kabab.wav
+79,چکن ریشمی کباب,,پسی لال مرچ,1,چائے کا چمچہ,hum masala,dataset\chicken reshmi kabab.wav
+79,چکن ریشمی کباب,,ڈبل روٹی کے سلائس,2,عدد,hum masala,dataset\chicken reshmi kabab.wav
+79,چکن ریشمی کباب,,بیسن ,2,کھانے کا چمچہ,hum masala,dataset\chicken reshmi kabab.wav
+79,چکن ریشمی کباب,,گھی,1,کھانے کا چمچہ,hum masala,dataset\chicken reshmi kabab.wav
+79,چکن ریشمی کباب,,کچا پسا پپیتا ,½,کھانے کا چمچہ,hum masala,dataset\chicken reshmi kabab.wav
+79,چکن ریشمی کباب,,تیل,,حسب ضرورت,hum masala,dataset\chicken reshmi kabab.wav
+80,چکن چٹنی مصالحہ,چکن چٹنی مصالحہ بنانے کے اجزاء,ثابت چکن,1,عدد,hum masala,dataset\Chicken chutney masala.wav
+80,چکن چٹنی مصالحہ,,پپیتا,1,کھانے کا چمچہ,hum masala,dataset\Chicken chutney masala.wav
+80,چکن چٹنی مصالحہ,,دہی,1,کپ,hum masala,dataset\Chicken chutney masala.wav
+80,چکن چٹنی مصالحہ,,لال مرچ,1,چائے کا چمچہ,hum masala,dataset\Chicken chutney masala.wav
+80,چکن چٹنی مصالحہ,,نمک ,½,چائے کا چمچہ,hum masala,dataset\Chicken chutney masala.wav
+80,چکن چٹنی مصالحہ,,ادرک لہسن,2,چائے کا چمچہ,hum masala,dataset\Chicken chutney masala.wav
+80,چکن چٹنی مصالحہ,,ہری مرچوں کا پیسٹ,1,کھانے کا چمچہ,hum masala,dataset\Chicken chutney masala.wav
+80,چکن چٹنی مصالحہ,چٹنی  کے اجزاء,ٹماٹر,½,کلو ,hum masala,dataset\Chicken chutney masala.wav
+80,چکن چٹنی مصالحہ,,لہسن,6,جوے,hum masala,dataset\Chicken chutney masala.wav
+80,چکن چٹنی مصالحہ,,نمک ,½,چائے کا چمچہ,hum masala,dataset\Chicken chutney masala.wav
+80,چکن چٹنی مصالحہ,,ہری مرچ,4,عدد,hum masala,dataset\Chicken chutney masala.wav
+80,چکن چٹنی مصالحہ,,زیره,2,چائے کا چمچہ,hum masala,dataset\Chicken chutney masala.wav
+80,چکن چٹنی مصالحہ,,دھنیا ,2,کھانے کا چمچہ,hum masala,dataset\Chicken chutney masala.wav
+80,چکن چٹنی مصالحہ,,پودینہ ,2,کھانے کا چمچہ,hum masala,dataset\Chicken chutney masala.wav
+80,چکن چٹنی مصالحہ,,تیل,½,کپ,hum masala,dataset\Chicken chutney masala.wav
+81,فش بریانی,فش بریانی بنانے کے اجزاء,رہو یا سرمئی مچھلی (فلے),1,کلو ,hum masala,dataset\Fish biryani.wav
+81,فش بریانی,,سیلا چاول,½-2,پیالی,hum masala,dataset\Fish biryani.wav
+81,فش بریانی,,دہی,1,پیالی,hum masala,dataset\Fish biryani.wav
+81,فش بریانی,,تیل,1,پیالی,hum masala,dataset\Fish biryani.wav
+81,فش بریانی,,زردے کا رنگ,1,چٹکی,hum masala,dataset\Fish biryani.wav
+81,فش بریانی,,باریک کٹی پیاز,4,عدد,hum masala,dataset\Fish biryani.wav
+81,فش بریانی,,ثابت کشمیری لال مرچ,4,عدد,hum masala,dataset\Fish biryani.wav
+81,فش بریانی,,لیموں,6,عدد,hum masala,dataset\Fish biryani.wav
+81,فش بریانی,,لمبی باریک کٹی ہری مرچ,6,عدد,hum masala,dataset\Fish biryani.wav
+81,فش بریانی,,پودینہ,1,بڑی گٹھی ,hum masala,dataset\Fish biryani.wav
+81,فش بریانی,,تازہ دودھ,½,پیالی,hum masala,dataset\Fish biryani.wav
+81,فش بریانی,,ہلدی,1,چائے کا چمچہ,hum masala,dataset\Fish biryani.wav
+81,فش بریانی,,پسا گرم مصالحہ,1,چائے کا چمچہ,hum masala,dataset\Fish biryani.wav
+81,فش بریانی,,بھنا اور پسا سفید زیرہ,1,چائے کا چمچہ,hum masala,dataset\Fish biryani.wav
+81,فش بریانی,,ادرک لہسن کا پیسٹ,1,کھانے کا چمچہ,hum masala,dataset\Fish biryani.wav
+81,فش بریانی,,ثابت دھنیا,2,کھانے کا چمچہ,hum masala,dataset\Fish biryani.wav
+81,فش بریانی,,سفید سرکہ,2,کھانے کا چمچہ,hum masala,dataset\Fish biryani.wav
+81,فش بریانی,,نمک ,,حسب ذائقہ,hum masala,dataset\Fish biryani.wav
+82,کھڑا مصالحہ مُرغ روسٹ,کھڑا مصالحہ مُرغ روسٹ بنانے کے اجزاء,چکن,1,کلو ,hum masala,dataset\khara masala murgh roast.wav
+82,کھڑا مصالحہ مُرغ روسٹ,,دہی,1,پیالی,hum masala,dataset\khara masala murgh roast.wav
+82,کھڑا مصالحہ مُرغ روسٹ,,ثابت لال مرچ,8,عدد,hum masala,dataset\khara masala murgh roast.wav
+82,کھڑا مصالحہ مُرغ روسٹ,,نمک ,,حسب ذائقہ,hum masala,dataset\khara masala murgh roast.wav
+82,کھڑا مصالحہ مُرغ روسٹ,,باریک کٹی ادرک,2,کھانے کا چمچہ,hum masala,dataset\khara masala murgh roast.wav
+82,کھڑا مصالحہ مُرغ روسٹ,,لہسن کے چھلے جوے,6,عدد,hum masala,dataset\khara masala murgh roast.wav
+82,کھڑا مصالحہ مُرغ روسٹ,,ثابت دھنیا (کٹا ہوا),1,کھانے کا چمچہ,hum masala,dataset\khara masala murgh roast.wav
+82,کھڑا مصالحہ مُرغ روسٹ,,سفید زیرہ (کٹا ہوا),1,چائے کا چمچہ,hum masala,dataset\khara masala murgh roast.wav
+82,کھڑا مصالحہ مُرغ روسٹ,,باریک کٹی پیاز,3,عدد,hum masala,dataset\khara masala murgh roast.wav
+82,کھڑا مصالحہ مُرغ روسٹ,,لمبی باریک کٹی ہری مرچ,4,عدد,hum masala,dataset\khara masala murgh roast.wav
+82,کھڑا مصالحہ مُرغ روسٹ,,سفید سرکہ,½,پیالی,hum masala,dataset\khara masala murgh roast.wav
+82,کھڑا مصالحہ مُرغ روسٹ,,لیموں,2,عدد,hum masala,dataset\khara masala murgh roast.wav
+82,کھڑا مصالحہ مُرغ روسٹ,,زردے کار رنگ,,تھوڑا سا,hum masala,dataset\khara masala murgh roast.wav
+82,کھڑا مصالحہ مُرغ روسٹ,,کٹی کالی مرچ,1,چائے کا چمچہ,hum masala,dataset\khara masala murgh roast.wav
+82,کھڑا مصالحہ مُرغ روسٹ,,تیل,,حسب ضرورت,hum masala,dataset\khara masala murgh roast.wav
+83,کھیر,کھیر بنانے کے اجزاء,تازہ دودھ,2,لیٹر,hum masala,dataset\kheer.wav
+83,کھیر,,کنڈینسڈ ملک,1,ٹن,hum masala,dataset\kheer.wav
+83,کھیر,,چھوٹی الائچی,8,عدد,hum masala,dataset\kheer.wav
+83,کھیر,,قلاقند,1,کپ,hum masala,dataset\kheer.wav
+83,کھیر,,چاول ,½,کپ,hum masala,dataset\kheer.wav
+83,کھیر,,چینی ,½-1,کپ,hum masala,dataset\kheer.wav
+83,کھیر,,پستے بادام,,حسب ضرورت,hum masala,dataset\kheer.wav
+84,لچھا چکن,لچھا چکن بنانے کے اجزاء,چکن بریسٹ پیس,4,عدد,hum masala,dataset\Lacha Chicken.wav
+84,لچھا چکن,,ادرک لہسن کا پیسٹ,1,کھانے کا چمچہ,hum masala,dataset\Lacha Chicken.wav
+84,لچھا چکن,,پسی لال مرچ,1,کھانے کا چمچہ,hum masala,dataset\Lacha Chicken.wav
+84,لچھا چکن,,تندوری مصالحہ,1,کھانے کا چمچہ,hum masala,dataset\Lacha Chicken.wav
+84,لچھا چکن,,باریک کٹی ہری مرچ,4,عدد,hum masala,dataset\Lacha Chicken.wav
+84,لچھا چکن,,کٹی کالی مرچ,1,چائے کا چمچہ,hum masala,dataset\Lacha Chicken.wav
+84,لچھا چکن,, سفید سرکہ ,½,پیالی,hum masala,dataset\Lacha Chicken.wav
+84,لچھا چکن,,لیموں,3,عدد,hum masala,dataset\Lacha Chicken.wav
+84,لچھا چکن,,نمک,,حسب ذائقہ,hum masala,dataset\Lacha Chicken.wav
+84,لچھا چکن,,باریک کٹی پیاز,2,عدد,hum masala,dataset\Lacha Chicken.wav
+84,لچھا چکن,,دہی,½,پیالی,hum masala,dataset\Lacha Chicken.wav
+84,لچھا چکن,,باریک کٹا ہرا دھنیا,2,گٹھی,hum masala,dataset\Lacha Chicken.wav
+84,لچھا چکن,,بار یک کئی ادرک,1,کھانے کا چمچہ,hum masala,dataset\Lacha Chicken.wav
+84,لچھا چکن,,تیل,,حسب ضرورت,hum masala,dataset\Lacha Chicken.wav
+85,شلجم کا اچار,شلجم کا اچار بنانے کے اجزاء,سفید شلجم ,1,کلو ,hum masala,dataset\Shaljam ka Achaar.wav
+85,شلجم کا اچار,,بغیر چھلا لہسن,1,ڈالی ,hum masala,dataset\Shaljam ka Achaar.wav
+85,شلجم کا اچار,,سرسوں کا تیل,2,پیالی,hum masala,dataset\Shaljam ka Achaar.wav
+85,شلجم کا اچار,,سفید سرکہ,½,پیالی,hum masala,dataset\Shaljam ka Achaar.wav
+85,شلجم کا اچار,,کشمش,½,پیالی,hum masala,dataset\Shaljam ka Achaar.wav
+85,شلجم کا اچار,,ہری مرچ,10,عدد,hum masala,dataset\Shaljam ka Achaar.wav
+85,شلجم کا اچار,,کلونجی,1,چائے کا چمچہ,hum masala,dataset\Shaljam ka Achaar.wav
+85,شلجم کا اچار,,سفید زیرہ,1,کھانے کا چمچہ,hum masala,dataset\Shaljam ka Achaar.wav
+85,شلجم کا اچار,,کٹی لال مرچ,2,کھانے کا چمچہ,hum masala,dataset\Shaljam ka Achaar.wav
+85,شلجم کا اچار,, پسی رائی,2,کھانے کا چمچہ,hum masala,dataset\Shaljam ka Achaar.wav
+85,شلجم کا اچار,,گر,2,کھانے کا چمچہ,hum masala,dataset\Shaljam ka Achaar.wav
+85,شلجم کا اچار,,نمک,,حسب ذائقہ,hum masala,dataset\Shaljam ka Achaar.wav
+85,شلجم کا اچار,,میتھی دانے,7-8,عدد,hum masala,dataset\Shaljam ka Achaar.wav
+86,لیپرڈ پرنٹ کیک سینڈوچ,لیپرڈ پرنٹ کیک سینڈوچ بنانے کے اجزاء,کاسٹر شوگر,8,اونس,hum masala,dataset\Leopard print cake sandwich.wav
+86,لیپرڈ پرنٹ کیک سینڈوچ,,ان سالٹڈ بٹر,200,گرام,hum masala,dataset\Leopard print cake sandwich.wav
+86,لیپرڈ پرنٹ کیک سینڈوچ,,انڈے,4,عدد,hum masala,dataset\Leopard print cake sandwich.wav
+86,لیپرڈ پرنٹ کیک سینڈوچ,,گرم پانی,2,کھانے کا چمچہ,hum masala,dataset\Leopard print cake sandwich.wav
+86,لیپرڈ پرنٹ کیک سینڈوچ,,و نیلا بین ایسنس,1/2,چائے کا چمچہ,hum masala,dataset\Leopard print cake sandwich.wav
+86,لیپرڈ پرنٹ کیک سینڈوچ,,میدہ,8,اونس,hum masala,dataset\Leopard print cake sandwich.wav
+86,لیپرڈ پرنٹ کیک سینڈوچ,,بیکنگ پاؤڈر,1,چائے کا چمچہ,hum masala,dataset\Leopard print cake sandwich.wav
+86,لیپرڈ پرنٹ کیک سینڈوچ,,بیکنگ سوڈا,1,چائے کا چمچہ,hum masala,dataset\Leopard print cake sandwich.wav
+86,لیپرڈ پرنٹ کیک سینڈوچ,,نمک,1/4,چائے کا چمچہ,hum masala,dataset\Leopard print cake sandwich.wav
+86,لیپرڈ پرنٹ کیک سینڈوچ,,دودھ,1/4,کپ,hum masala,dataset\Leopard print cake sandwich.wav
+86,لیپرڈ پرنٹ کیک سینڈوچ,,فوڈ کلر ( بلیک، براؤن، یلو ),,حسب ضرورت,hum masala,dataset\Leopard print cake sandwich.wav
+86,لیپرڈ پرنٹ کیک سینڈوچ,,گناش,,پھیلانے کے لیے,hum masala,dataset\Leopard print cake sandwich.wav
+87,مصالحے دار بھاجی,مصالحے دار بھاجی بنانے کے اجزاء,شلجم,1/2,کلو ,hum masala,dataset\Masalaydar Bhaji.wav
+87,مصالحے دار بھاجی,,مٹر,1/2,کلو ,hum masala,dataset\Masalaydar Bhaji.wav
+87,مصالحے دار بھاجی,,ٹماٹر,1/2,کلو ,hum masala,dataset\Masalaydar Bhaji.wav
+87,مصالحے دار بھاجی,,گاجر,1/2,کلو ,hum masala,dataset\Masalaydar Bhaji.wav
+87,مصالحے دار بھاجی,,میتھی ,1,پاؤ ,hum masala,dataset\Masalaydar Bhaji.wav
+87,مصالحے دار بھاجی,,گڑ,1,کھانے کا چمچہ,hum masala,dataset\Masalaydar Bhaji.wav
+87,مصالحے دار بھاجی,,ثابت لال مرچ (چھوٹی),8,عدد,hum masala,dataset\Masalaydar Bhaji.wav
+87,مصالحے دار بھاجی,,نمک,1,چائے کا چمچہ,hum masala,dataset\Masalaydar Bhaji.wav
+87,مصالحے دار بھاجی,,ہری مرچ,4,عدد,hum masala,dataset\Masalaydar Bhaji.wav
+87,مصالحے دار بھاجی,,رائی ,1,چائے کا چمچہ,hum masala,dataset\Masalaydar Bhaji.wav
+87,مصالحے دار بھاجی,,زیره,1,چائے کا چمچہ,hum masala,dataset\Masalaydar Bhaji.wav
+87,مصالحے دار بھاجی,,ہلدی,1,چائے کا چمچہ,hum masala,dataset\Masalaydar Bhaji.wav
+87,مصالحے دار بھاجی,,پسی لال مرچ,1,چائے کا چمچہ,hum masala,dataset\Masalaydar Bhaji.wav
+87,مصالحے دار بھاجی,,تیل,1/2,کپ,hum masala,dataset\Masalaydar Bhaji.wav
+88,انین سوپ,انین سوپ بنانے کے اجزاء,پیاز,1,پاؤ ,hum masala,dataset\onion soup.wav
+88,انین سوپ,,تیل,1,کھانے کا چمچہ,hum masala,dataset\onion soup.wav
+88,انین سوپ,,نمک,1/2,چائے کا چمچہ,hum masala,dataset\onion soup.wav
+88,انین سوپ,,چکن کی یخنی,4,گلاس ,hum masala,dataset\onion soup.wav
+88,انین سوپ,,پسی سفید مرچ,1,چائے کا چمچہ,hum masala,dataset\onion soup.wav
+88,انین سوپ,,چکن پاؤڈر,1,کھانے کا چمچہ,hum masala,dataset\onion soup.wav
+89,چنے کا پلاؤ,چنے کا پلاؤبنانے کے اجزاء,چاول,½,کلو,kfoods,dataset\chanay ka pulaoo - kfoods.wav
+89,چنے کا پلاؤ,,پیاز,½,پاؤ,kfoods,dataset\chanay ka pulaoo - kfoods.wav
+89,چنے کا پلاؤ,,چنے,1,پاؤ,kfoods,dataset\chanay ka pulaoo - kfoods.wav
+89,چنے کا پلاؤ,,ادرک,½,چھٹانک,kfoods,dataset\chanay ka pulaoo - kfoods.wav
+89,چنے کا پلاؤ,,گھی,1,پاؤ,kfoods,dataset\chanay ka pulaoo - kfoods.wav
+89,چنے کا پلاؤ,,بڑی الائچی,3,عدد,kfoods,dataset\chanay ka pulaoo - kfoods.wav
+89,چنے کا پلاؤ,,سیاہ مرچ,8,عدد,kfoods,dataset\chanay ka pulaoo - kfoods.wav
+89,چنے کا پلاؤ,,دار چینی,1,ٹکڑا,kfoods,dataset\chanay ka pulaoo - kfoods.wav
+89,چنے کا پلاؤ,,لونگ,6,عدد,kfoods,dataset\chanay ka pulaoo - kfoods.wav
+89,چنے کا پلاؤ,,نمک,,حسب پسند,kfoods,dataset\chanay ka pulaoo - kfoods.wav
+90,چکن چیز پراٹھا,چکن چیز پراٹھا بنانے کے اجزاء,گندم کا آٹا,2,کپ,kfoods,dataset\chicken cheese parhata - kfoods.wav
+90,چکن چیز پراٹھا,ڈو بنانے کے اجزا,نمک,1,چٹکی,kfoods,dataset\chicken cheese parhata - kfoods.wav
+90,چکن چیز پراٹھا,,کھانے کا تیل,,حسب ضرورت,kfoods,dataset\chicken cheese parhata - kfoods.wav
+90,چکن چیز پراٹھا,,نیم گرم دودھ,,حسب ضرورت,kfoods,dataset\chicken cheese parhata - kfoods.wav
+90,چکن چیز پراٹھا,چکن فلنگ کے اجزا,ابلی ہوئی چکن(ریشے),300,گرام,kfoods,dataset\chicken cheese parhata - kfoods.wav
+90,چکن چیز پراٹھا,,ہری مرچ(چوپ),2,عدد,kfoods,dataset\chicken cheese parhata - kfoods.wav
+90,چکن چیز پراٹھا,,نمک,,حسب ضرورت,kfoods,dataset\chicken cheese parhata - kfoods.wav
+90,چکن چیز پراٹھا,,گرم مصالحہ,1,کھانے کے چمچ,kfoods,dataset\chicken cheese parhata - kfoods.wav
+90,چکن چیز پراٹھا,,پیاز(درمیانی),1,عدد,kfoods,dataset\chicken cheese parhata - kfoods.wav
+90,چکن چیز پراٹھا,,ہرا دھنیا,2,کھانے کے چمچ,kfoods,dataset\chicken cheese parhata - kfoods.wav
+90,چکن چیز پراٹھا,,دھنیا پائوڈر,½,کھانے کے چمچ,kfoods,dataset\chicken cheese parhata - kfoods.wav
+90,چکن چیز پراٹھا,,ال مرچ کٹی ہوئی,1,کھانے کے چمچ,kfoods,dataset\chicken cheese parhata - kfoods.wav
+90,چکن چیز پراٹھا,,زیرہ پائوڈر,½,کھانے کے چمچ,kfoods,dataset\chicken cheese parhata - kfoods.wav
+90,چکن چیز پراٹھا,,چیڈر چیز(کدوکش),4,کھانے کے چمچ,kfoods,dataset\chicken cheese parhata - kfoods.wav
+90,چکن چیز پراٹھا,,موزریلا چیز(کدوکش),4,کھانے کے چمچ,kfoods,dataset\chicken cheese parhata - kfoods.wav
+91,بیف چلی ملی,بیف چلی ملی بنانے کے اجزاء,گائے کے گوشت کی بوٹیاں,1,کلو,kfoods,dataset\beef chilli milli - kfoods.wav
+91,بیف چلی ملی,,پساہوا لہسن ادرک,1,کھانے کے چمچے,kfoods,dataset\beef chilli milli - kfoods.wav
+91,بیف چلی ملی,,پسا ہوا کچا پپیتا,2,کھانے کے چمچے,kfoods,dataset\beef chilli milli - kfoods.wav
+91,بیف چلی ملی,,لیموں کا رس,4,کھانے کے چمچے,kfoods,dataset\beef chilli milli - kfoods.wav
+91,بیف چلی ملی,,املی کا گو ُدا,2,کھانے کے چمچے,kfoods,dataset\beef chilli milli - kfoods.wav
+91,بیف چلی ملی,,ٹماٹو کیچپ,2,کھانے کے چمچے,kfoods,dataset\beef chilli milli - kfoods.wav
+91,بیف چلی ملی,,چاٹ مصالحہ,1,چائے کا چمچہ,kfoods,dataset\beef chilli milli - kfoods.wav
+91,بیف چلی ملی,,کٹی ُہوئی لال مرچ,1,چائے کا چمچہ,kfoods,dataset\beef chilli milli - kfoods.wav
+91,بیف چلی ملی,,پسی ہوئی کالی مرچ,1,چائے کا چمچہ,kfoods,dataset\beef chilli milli - kfoods.wav
+91,بیف چلی ملی,,نمک,,حسب ذائقہ,kfoods,dataset\beef chilli milli - kfoods.wav
+91,بیف چلی ملی,,تیل,5,کھانے کے چمچے,kfoods,dataset\beef chilli milli - kfoods.wav
+91,بیف چلی ملی,,پودینے کے پتے,,سجانے کے لئے,kfoods,dataset\beef chilli milli - kfoods.wav
+92,پیری پیری فنگر فش,پیری پیری فنگر فش بنانے کے اجزاء,بون لیس فنگر فش,½,کلو,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,کا لی مرچ,½,چائے کا چمچ,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,چِلی پاؤڈر,½,چائے کا چمچ,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,پیری پیری سوس,3,کھانے کے چمچ,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,کھانے کا تیل,,فرائی کے لئے,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,نمک,1,چائے کا چمچ,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,میدہ,2,کھانے کے چمچ,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,تازہ دھنیا,2,کھانے کے چمچ,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,بریڈ کرمز,,کوٹنگ کے لئے,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,انڈہ,1,عدد,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,سرکہ,1,کھانے کے چمچ,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,کشمیری مرچیں,10,عدد,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,لہسن کی جویں,3,عدد,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,مسٹرڈ پیسٹ,1,کھانے کا چمچ,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,کالی مر چ,½,چائے کا چمچ,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,مسٹرڈ پیسٹ,1,چائے کا چمچ,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,سٹرک ایسڈ,1,چائے کا چمچ,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,کٹی لال مرچیں,1,کھانے کا چمچ,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,کھانے کا تیل,1,کپ,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,لیموں کا رس,2,کھانے کے چمچ,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,نمک,,کھانے کا چمچ,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,پیاز,1,کھانے کا چمچ,kfoods,dataset\peri peri finger fish - kfoods.wav
+92,پیری پیری فنگر فش,,مایونیز,1,کپ,kfoods,dataset\peri peri finger fish - kfoods.wav
+93,ایگ سوپ,ایگ سوپ  بنانے کے اجزاء,چکن کی یخنی,4,پیالی,kfoods,dataset\egg soup - kfoods.wav
+93,ایگ سوپ,,انڈے,3,عدد,kfoods,dataset\egg soup - kfoods.wav
+93,ایگ سوپ,,نمک,½,حسب ذائقہ,kfoods,dataset\egg soup - kfoods.wav
+93,ایگ سوپ,,کچلا ہوا لہسن,1,چائے کا چمچ,kfoods,dataset\egg soup - kfoods.wav
+93,ایگ سوپ,,ہری پیاز,2,عدد,kfoods,dataset\egg soup - kfoods.wav
+93,ایگ سوپ,,سویاسوس,2,کھانے کے چمچ,kfoods,dataset\egg soup - kfoods.wav
+93,ایگ سوپ,,کالی مرچ پسی ہوئی,½,چائے کا چمچ,kfoods,dataset\egg soup - kfoods.wav
+93,ایگ سوپ,,کارن فلار,2,کھانے کے چمچ,kfoods,dataset\egg soup - kfoods.wav
+93,ایگ سوپ,,آئل,2,کھانے کے چمچ,kfoods,dataset\egg soup - kfoods.wav
+94,سرسوں کا ساگ,سرسوں کا ساگ بنانے کے اجزاء,,,,hum masala,dataset\Sarson-Ka-Saag.wav
+94,سرسوں کا ساگ,,سرسوں کا ساگ,1,کلو,hum masala,dataset\Sarson-Ka-Saag.wav
+94,سرسوں کا ساگ,,مکئی کا آٹا,1,پیالی,hum masala,dataset\Sarson-Ka-Saag.wav
+94,سرسوں کا ساگ,,مکھن,1,پیکٹ,hum masala,dataset\Sarson-Ka-Saag.wav
+94,سرسوں کا ساگ,,ہری مرچ,4,عدد,hum masala,dataset\Sarson-Ka-Saag.wav
+94,سرسوں کا ساگ,,لہسن کے جوے,8,عدد,hum masala,dataset\Sarson-Ka-Saag.wav
+94,سرسوں کا ساگ,,ثابت لال مرچ,10,عدد,hum masala,dataset\Sarson-Ka-Saag.wav
+94,سرسوں کا ساگ,,ہلدی,1,چائے کا چمچہ,hum masala,dataset\Sarson-Ka-Saag.wav
+94,سرسوں کا ساگ,,نمک,,حسب ذائقہ,hum masala,dataset\Sarson-Ka-Saag.wav
+94,سرسوں کا ساگ,بگھار کے اجزاء:,,,,hum masala,dataset\Sarson-Ka-Saag.wav
+94,سرسوں کا ساگ,,باریک کئے لہسن کے جوے,4,عدد,hum masala,dataset\Sarson-Ka-Saag.wav
+94,سرسوں کا ساگ,,مکھن,½,پیکٹ,hum masala,dataset\Sarson-Ka-Saag.wav
+94,سرسوں کا ساگ,,تیل,3, کھانے کا چمچہ,hum masala,dataset\Sarson-Ka-Saag.wav
+95,مونگ دال پکوڑا, مونگ دال پکوڑا بنانے کے اجزاء,,,,hum masala,dataset\moong daal pakora.wav
+95,مونگ دال پکوڑا,,قیمہ (ہاتھ کا ‌ کٹا),½,کلو,hum masala,dataset\moong daal pakora.wav
+95,مونگ دال پکوڑا,,مونگ دال کا آٹا,1,کپ,hum masala,dataset\moong daal pakora.wav
+95,مونگ دال پکوڑا,,کٹی ہری مرچ,4,عدد,hum masala,dataset\moong daal pakora.wav
+95,مونگ دال پکوڑا,,ثابت دھنیا (کٹا ہوا),1, کھانے کا چمچہ,hum masala,dataset\moong daal pakora.wav
+95,مونگ دال پکوڑا,,کٹا زیرہ,1,چائے کا چمچہ,hum masala,dataset\moong daal pakora.wav
+95,مونگ دال پکوڑا,,نمک,½,چائے کا چمچہ,hum masala,dataset\moong daal pakora.wav
+95,مونگ دال پکوڑا,,کٹی کالی مرچ,2,چائے کا چمچہ,hum masala,dataset\moong daal pakora.wav
+95,مونگ دال پکوڑا,,باریک کٹی پیاز,2,عدد,hum masala,dataset\moong daal pakora.wav
+95,مونگ دال پکوڑا,,باریک کٹا لہسن,1, کھانے کا چمچہ,hum masala,dataset\moong daal pakora.wav
+95,مونگ دال پکوڑا,,تیل ( تلنے کے لیے),,حسب ضرورت,hum masala,dataset\moong daal pakora.wav
+96,گرین چلی چکن ,گرین چلی چکن بنانے کے اجزاء,چکن,14-16,ٹکرے,hum masala,dataset\green chilli chicken.wav
+96,گرین چلی چکن ,,ہری مرچ,10-15,عدد,hum masala,dataset\green chilli chicken.wav
+96,گرین چلی چکن ,,ہرا دھنیا,1,گٹھی,hum masala,dataset\green chilli chicken.wav
+96,گرین چلی چکن ,,لہسن کے بغیر چھلے,6,جوے,hum masala,dataset\green chilli chicken.wav
+96,گرین چلی چکن ,,ادرک لہسن کا پیسٹ,1, کھانے کا چمچہ,hum masala,dataset\green chilli chicken.wav
+96,گرین چلی چکن ,,کٹی پیاز,3,عدد,hum masala,dataset\green chilli chicken.wav
+96,گرین چلی چکن ,,دہی,½,کپ,hum masala,dataset\green chilli chicken.wav
+96,گرین چلی چکن ,,کٹی کالی مرچ,½, کھانے کا چمچہ,hum masala,dataset\green chilli chicken.wav
+96,گرین چلی چکن ,,لیموں ,2,عدد,hum masala,dataset\green chilli chicken.wav
+96,گرین چلی چکن ,,بھنا اور پسا زیره,1, کھانے کا چمچہ,hum masala,dataset\green chilli chicken.wav
+96,گرین چلی چکن ,,مکھن,1, کھانے کا چمچہ,hum masala,dataset\green chilli chicken.wav
+96,گرین چلی چکن ,,نمک,,حسب ذائقہ,hum masala,dataset\green chilli chicken.wav
+96,گرین چلی چکن ,,تیل,,حسب ضرورت,hum masala,dataset\green chilli chicken.wav
+97,لبنانی کباب,لبنانی کباب بنانے کے اجزاء,گائے یا بکری کا قیمہ,1,کلو,hum masala,dataset\Labnani kabab.wav
+97,لبنانی کباب,,ابلی میکرونی,1,پیالی,hum masala,dataset\Labnani kabab.wav
+97,لبنانی کباب,,چھلے اور اُبلے مٹر,1,پیالی,hum masala,dataset\Labnani kabab.wav
+97,لبنانی کباب,,ڈبل روٹی کا چورا,1,پیکٹ,hum masala,dataset\Labnani kabab.wav
+97,لبنانی کباب,,انڈے,2,عدد,hum masala,dataset\Labnani kabab.wav
+97,لبنانی کباب,,درمیانی پیاز,3,عدد,hum masala,dataset\Labnani kabab.wav
+97,لبنانی کباب,,ابلے آلو,3,عدد,hum masala,dataset\Labnani kabab.wav
+97,لبنانی کباب,,ٹماٹر,3,عدد,hum masala,dataset\Labnani kabab.wav
+97,لبنانی کباب,,ہری مرچ,6-8,عدد,hum masala,dataset\Labnani kabab.wav
+97,لبنانی کباب,,ادرک لہسن کا پیسٹ,1,چائے کا چمچہ,hum masala,dataset\Labnani kabab.wav
+97,لبنانی کباب,,کٹی کالی مرچ,1,چائے کا چمچہ,hum masala,dataset\Labnani kabab.wav
+97,لبنانی کباب,,تیل,,حسب ضرورت,hum masala,dataset\Labnani kabab.wav
+97,لبنانی کباب,,نمک,,حسب ذائقہ,hum masala,dataset\Labnani kabab.wav
+97,مغز کی کڑاہی,مغز کی کڑاہی بنانے کے اجزاء,گائے کا مغز,1,عدد,hum masala,dataset\maghaz ki karahi.wav
+97,مغز کی کڑاہی,,لہسن کے بغیر چھلے جوے,3,عدد,hum masala,dataset\maghaz ki karahi.wav
+97,مغز کی کڑاہی,,کچی پسی پیاز,2,عدد,hum masala,dataset\maghaz ki karahi.wav
+97,مغز کی کڑاہی,,باریک کٹے ٹماٹر,3,عدد,hum masala,dataset\maghaz ki karahi.wav
+97,مغز کی کڑاہی,,دہی,½,پیالی,hum masala,dataset\maghaz ki karahi.wav
+97,مغز کی کڑاہی,,پسا گرم مصالحہ,1,چائے کا چمچہ,hum masala,dataset\maghaz ki karahi.wav
+97,مغز کی کڑاہی,,ہلدی,1,چائے کا چمچہ,hum masala,dataset\maghaz ki karahi.wav
+97,مغز کی کڑاہی,,پسی لال مرچ,1, کھانے کا چمچہ,hum masala,dataset\maghaz ki karahi.wav
+97,مغز کی کڑاہی,,ثابت دھنیا,1,چائے کا چمچہ,hum masala,dataset\maghaz ki karahi.wav
+97,مغز کی کڑاہی,,ثابت کالی مرچ,6,عدد,hum masala,dataset\maghaz ki karahi.wav
+97,مغز کی کڑاہی,,سفید زیرہ,½,چائے کا چمچہ,hum masala,dataset\maghaz ki karahi.wav
+97,مغز کی کڑاہی,,نمک,,حسب ذائقہ,hum masala,dataset\maghaz ki karahi.wav
+97,مغز کی کڑاہی,,باریک کٹی ادرک,2, کھانے کا چمچہ,hum masala,dataset\maghaz ki karahi.wav
+97,مغز کی کڑاہی,,لمبی باریک کٹی ہری مرچ,4,عدد,hum masala,dataset\maghaz ki karahi.wav
+97,مغز کی کڑاہی,,باریک کٹا ہرا دھنیا,1,گٹھی,hum masala,dataset\maghaz ki karahi.wav
+97,مغز کی کڑاہی,,لیموں,2,عدد,hum masala,dataset\maghaz ki karahi.wav
+97,مغز کی کڑاہی,,تیل,1,پیالی,hum masala,dataset\maghaz ki karahi.wav
+98,کھبی اور کالی مرچ والا گوشت,کھبی اور کالی مرچ والا گوشت بنانے کے اجزاء,انڈر کٹ,300,گرام,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+98,کھبی اور کالی مرچ والا گوشت,,بٹن کھمبی,6,عدد,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+98,کھبی اور کالی مرچ والا گوشت,,پسا ہوا لہسن ادرک,1,کھانے کا چمچہ,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+98,کھبی اور کالی مرچ والا گوشت,,پیاز,½,½,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+98,کھبی اور کالی مرچ والا گوشت,,ہری پیاز,1,ڈنڈی,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+98,کھبی اور کالی مرچ والا گوشت,,اویسٹر ساس,2,کھانے کا چمچہ,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+98,کھبی اور کالی مرچ والا گوشت,,کُٹی ہوئی کالی مرچ,1,کھانے کا چمچہ,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+98,کھبی اور کالی مرچ والا گوشت,,بھُنا ہو امیدہ,3,کھانے کا چمچہ,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+98,کھبی اور کالی مرچ والا گوشت,,تازہ کریم,1,کھانے کا چمچہ,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+98,کھبی اور کالی مرچ والا گوشت,,پسی ہوئی کالی مرچ,1/4,چائے کا چمچہ,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+98,کھبی اور کالی مرچ والا گوشت,,پانی,2,پیالی,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+98,کھبی اور کالی مرچ والا گوشت,,نمک ,,حسب ذائقہ,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+98,کھبی اور کالی مرچ والا گوشت,,تیل,4,کھانے کا چمچہ,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+98,کھبی اور کالی مرچ والا گوشت,,کھیرا,,سجانے کے لئے,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+98,کھبی اور کالی مرچ والا گوشت,,چاول,,ہمرا ہ پیش کرنے کے لئے,kfoods,dataset\Kahabi Aur Kali Mirch Wala Goosht - kfoods (1).wav
+99,چلی چلی جھینگے,چلی چلی جھینگے بنانے کے اجزاء,جھینگے,½,کلو,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+99,چلی چلی جھینگے,,ناریل کا دودھ,½,پیالی,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+99,چلی چلی جھینگے,,ادرک,1,درمیانہ ٹکڑا,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+99,چلی چلی جھینگے,,لہسن ,5,جوے,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+99,چلی چلی جھینگے,,پسی ہوئی ہلدی,1,چائے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+99,چلی چلی جھینگے,,کُٹی ہوئی کالی مرچ,1,چائے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+99,چلی چلی جھینگے,,پسی ہوئی لال مرچ,1,چائے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+99,چلی چلی جھینگے,,پسی ہوئی سفید مرچ,½,چائے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+99,چلی چلی جھینگے,,رائی دانے,2,چائے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+99,چلی چلی جھینگے,,چھوٹی الائچیاں,5,عدد,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+99,چلی چلی جھینگے,,ہرا دھنیا,3,کھانے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+99,چلی چلی جھینگے,,نمک ,,حسب ذائقہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+99,چلی چلی جھینگے,,تیل,4,کھانے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+99,مچھلی کے کباب,مچھلی کے کباب بنانے کے اجزاء,مچھلی کے فلے,300,گرام,kfoods,dataset\Machli k Kabab - kfoods.wav
+99,مچھلی کے کباب,,پیاز,1,عدد,kfoods,dataset\Machli k Kabab - kfoods.wav
+99,مچھلی کے کباب,,ہرا دھنیا ,1/4,گڈی,kfoods,dataset\Machli k Kabab - kfoods.wav
+99,مچھلی کے کباب,,ہری مرچیں,5,عدد,kfoods,dataset\Machli k Kabab - kfoods.wav
+99,مچھلی کے کباب,,لہسن ,5,جوے,kfoods,dataset\Machli k Kabab - kfoods.wav
+99,مچھلی کے کباب,,ادرک,1,درمیانہ ٹکڑا,kfoods,dataset\Machli k Kabab - kfoods.wav
+99,مچھلی کے کباب,,انڈے ,2,عدد,kfoods,dataset\Machli k Kabab - kfoods.wav
+99,مچھلی کے کباب,,میدہ ,,حسبِ ضرورت,kfoods,dataset\Machli k Kabab - kfoods.wav
+99,مچھلی کے کباب,,پسی ہوئی لال مرچ,2,کھانے کا چمچہ,kfoods,dataset\Machli k Kabab - kfoods.wav
+99,مچھلی کے کباب,,پسی ہوئی ہلدی,1,کھانے کا چمچہ,kfoods,dataset\Machli k Kabab - kfoods.wav
+99,مچھلی کے کباب,,چاٹ مصالحہ,1,کھانے کا چمچہ,kfoods,dataset\Machli k Kabab - kfoods.wav
+99,مچھلی کے کباب,,نمک,,حسب ذائقہ,kfoods,dataset\Machli k Kabab - kfoods.wav
+99,مچھلی کے کباب,,تیل,,تلنے کے لئے,kfoods,dataset\Machli k Kabab - kfoods.wav
+100,چلی چلی جھینگے,چلی چلی جھینگے بنانے کے اجزاء,جھینگے,½,کلو,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+100,چلی چلی جھینگے,,ناریل کا دودھ,½,پیالی,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+100,چلی چلی جھینگے,,ادرک,1,درمیانہ ٹکڑا,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+100,چلی چلی جھینگے,,لہسن ,5,جوے,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+100,چلی چلی جھینگے,,پسی ہوئی ہلدی,1,چائے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+100,چلی چلی جھینگے,,کُٹی ہوئی کالی مرچ,1,چائے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+100,چلی چلی جھینگے,,پسی ہوئی لال مرچ,1,چائے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+100,چلی چلی جھینگے,,پسی ہوئی سفید مرچ,½,چائے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+100,چلی چلی جھینگے,,رائی دانے,2,چائے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+100,چلی چلی جھینگے,,چھوٹی الائچیاں,5,عدد,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+100,چلی چلی جھینگے,,ہرا دھنیا,3,کھانے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+100,چلی چلی جھینگے,,نمک ,,حسب ذائقہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
+100,چلی چلی جھینگے,,تیل,4,کھانے کا چمچہ,kfoods,dataset\Chilli Chilli Jheengay - kfoods.wav
